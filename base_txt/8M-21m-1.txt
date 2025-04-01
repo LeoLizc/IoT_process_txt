@@ -1,0 +1,643 @@
+usrp_source :info: set_min_output_buffer on block 1 to 4160
+Press Enter to quit: [1frame_sync_impl.cc] 0My STO: 6.81432e-05
+[1frame_sync_impl.cc] 0My STO: -0.000107827
+[1frame_sync_impl.cc] 0My STO: 0.000188053
+[1frame_sync_impl.cc] 0My STO: 6.79093e-05
+[1frame_sync_impl.cc] 0My STO: 3.74948e-06
+[frame_sync_impl.cc] 1 CFO estimate: -0.180415, STO estimate: 38.4686 snr est: 1.04774
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:0
+CRC valid!
+
+[1frame_sync_impl.cc] 1My STO: -4.94486e-07
+[frame_sync_impl.cc] 2 CFO estimate: -0.162118, STO estimate: 103.938 snr est: -2.47721
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:01
+[31mCRC invalid[0m
+
+[1frame_sync_impl.cc] 2My STO: 0.000244415
+[1frame_sync_impl.cc] 2My STO: -5.65979e-07
+[frame_sync_impl.cc] 3 CFO estimate: -0.180438, STO estimate: 14.9291 snr est: 2.7322
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:02
+CRC valid!
+
+[1frame_sync_impl.cc] 3My STO: 1.78502e-06
+[frame_sync_impl.cc] 4 CFO estimate: -0.178331, STO estimate: 66.223 snr est: 0.449194
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Çiudiano 8MSPS:03
+[31mCRC invalid[0m
+
+[1frame_sync_impl.cc] 4My STO: 0.000188
+[1frame_sync_impl.cc] 4My STO: -2.94663e-06
+[frame_sync_impl.cc] 5 CFO estimate: -0.182944, STO estimate: 26.6316 snr est: 3.96006
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:06
+CRC valid!
+
+[1frame_sync_impl.cc] 5My STO: 6.33759e-07
+[frame_sync_impl.cc] 6 CFO estimate: -0.18062, STO estimate: 76.0791 snr est: 4.51016
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:07
+CRC valid!
+
+[1frame_sync_impl.cc] 6My STO: -0.000199551
+[1frame_sync_impl.cc] 6My STO: -1.38901e-06
+[frame_sync_impl.cc] 7 CFO estimate: -0.180994, STO estimate: 47.8263 snr est: -3.7292
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:09
+CRC valid!
+
+[1frame_sync_impl.cc] 7My STO: 0.000108122
+[1frame_sync_impl.cc] 7My STO: 0.000204314
+[1frame_sync_impl.cc] 7My STO: 3.15674e-06
+[frame_sync_impl.cc] 8 CFO estimate: -0.182082, STO estimate: 14.3945 snr est: 1.04239
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: £>7z¤­ß¶]p1)ÌÂ
+[31mCRC invalid[0m
+
+[1frame_sync_impl.cc] 8My STO: 1.255e-06
+[frame_sync_impl.cc] 9 CFO estimate: -0.178826, STO estimate: 95.1568 snr est: 1.06957
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:011
+CRC valid!
+
+[1frame_sync_impl.cc] 9My STO: -2.62631e-07
+[frame_sync_impl.cc] 10 CFO estimate: -0.174867, STO estimate: 96.9671 snr est: 4.71966
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:012
+CRC valid!
+
+[1frame_sync_impl.cc] 10My STO: -3.80051e-06
+[frame_sync_impl.cc] 11 CFO estimate: -0.18195, STO estimate: 77.5248 snr est: 2.96571
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:013
+CRC valid!
+
+[1frame_sync_impl.cc] 11My STO: 1.84976e-06
+[frame_sync_impl.cc] 12 CFO estimate: -0.192409, STO estimate: 116.231 snr est: 2.54632
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:014
+CRC valid!
+
+[1frame_sync_impl.cc] 12My STO: -0.000180145
+[1frame_sync_impl.cc] 12My STO: -6.00102e-05
+[1frame_sync_impl.cc] 12My STO: 1.78229e-06
+[frame_sync_impl.cc] 13 CFO estimate: -0.186706, STO estimate: 77.2227 snr est: 3.80388
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:015
+CRC valid!
+
+[1frame_sync_impl.cc] 13My STO: -3.61514e-05
+[1frame_sync_impl.cc] 13My STO: 8.64579e-07
+[frame_sync_impl.cc] 14 CFO estimate: -0.184448, STO estimate: 116.108 snr est: 4.49389
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:016
+CRC valid!
+
+[1frame_sync_impl.cc] 14My STO: -2.77461e-06
+[frame_sync_impl.cc] 15 CFO estimate: -0.165198, STO estimate: 117.653 snr est: 3.19964
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:017
+CRC valid!
+
+[1frame_sync_impl.cc] 15My STO: 0.000115634
+[1frame_sync_impl.cc] 15My STO: -0.000228296
+[1frame_sync_impl.cc] 15My STO: -3.27199e-06
+[frame_sync_impl.cc] 16 CFO estimate: -0.194557, STO estimate: 47.5909 snr est: 5.63094
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:018
+CRC valid!
+
+[1frame_sync_impl.cc] 16My STO: -9.41401e-07
+[frame_sync_impl.cc] 17 CFO estimate: -0.169014, STO estimate: 81.8822 snr est: 4.18989
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:019
+CRC valid!
+
+[1frame_sync_impl.cc] 17My STO: -2.5844e-06
+[frame_sync_impl.cc] 18 CFO estimate: -0.178265, STO estimate: 9.67685 snr est: 5.53297
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:020
+CRC valid!
+
+[1frame_sync_impl.cc] 18My STO: -3.11526e-06
+[frame_sync_impl.cc] 19 CFO estimate: -0.194911, STO estimate: 100.61 snr est: 3.33743
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:021
+CRC valid!
+
+[1frame_sync_impl.cc] 19My STO: 9.23202e-05
+[1frame_sync_impl.cc] 19My STO: -1.82342e-06
+[frame_sync_impl.cc] 20 CFO estimate: -0.168926, STO estimate: 112.772 snr est: 5.43794
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:022
+CRC valid!
+
+[1frame_sync_impl.cc] 20My STO: -6.86066e-07
+[frame_sync_impl.cc] 21 CFO estimate: -0.174283, STO estimate: 89.9141 snr est: 5.19066
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:023
+CRC valid!
+
+[1frame_sync_impl.cc] 21My STO: 3.30836e-06
+[frame_sync_impl.cc] 22 CFO estimate: -0.193589, STO estimate: 67.4134 snr est: 1.74521
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:024
+CRC valid!
+
+[1frame_sync_impl.cc] 22My STO: 8.3979e-05
+[1frame_sync_impl.cc] 22My STO: -3.06677e-06
+[frame_sync_impl.cc] 23 CFO estimate: -0.197311, STO estimate: 66.6165 snr est: 5.92646
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:025
+CRC valid!
+
+[1frame_sync_impl.cc] 23My STO: -2.83311e-06
+[frame_sync_impl.cc] 24 CFO estimate: -0.158849, STO estimate: 72.6458 snr est: 6.00777
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:026
+CRC valid!
+
+[1frame_sync_impl.cc] 24My STO: 1.52974e-06
+[frame_sync_impl.cc] 25 CFO estimate: -0.180622, STO estimate: 17.1911 snr est: 5.86278
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:027
+CRC valid!
+
+[1frame_sync_impl.cc] 25My STO: -1.20386e-05
+[1frame_sync_impl.cc] 25My STO: -0.000156165
+[1frame_sync_impl.cc] 25My STO: 2.32412e-06
+[frame_sync_impl.cc] 26 CFO estimate: -0.189526, STO estimate: 94.2904 snr est: 5.55217
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:028
+CRC valid!
+
+[1frame_sync_impl.cc] 26My STO: 0.000124437
+[1frame_sync_impl.cc] 26My STO: 1.76911e-06
+[frame_sync_impl.cc] 27 CFO estimate: -0.185238, STO estimate: 79.221 snr est: 2.47241
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:029
+CRC valid!
+
+[1frame_sync_impl.cc] 27My STO: -3.89812e-06
+[frame_sync_impl.cc] 28 CFO estimate: -0.190386, STO estimate: 74.5126 snr est: 5.1518
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:030
+CRC valid!
+
+[1frame_sync_impl.cc] 28My STO: -1.18247e-06
+[frame_sync_impl.cc] 29 CFO estimate: -0.168667, STO estimate: 51.8521 snr est: 3.18323
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:031
+CRC valid!
+
+[1frame_sync_impl.cc] 29My STO: 3.33654e-08
+[frame_sync_impl.cc] 30 CFO estimate: -0.170951, STO estimate: 76.0041 snr est: 3.61402
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:032
+CRC valid!
+
+[1frame_sync_impl.cc] 30My STO: -3.98155e-07
+[frame_sync_impl.cc] 31 CFO estimate: -0.181388, STO estimate: 18.9501 snr est: 4.37762
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:033
+CRC valid!
+
+[1frame_sync_impl.cc] 31My STO: 0.000131911
+[1frame_sync_impl.cc] 31My STO: 2.1459e-06
+[frame_sync_impl.cc] 32 CFO estimate: -0.186072, STO estimate: 98.2681 snr est: 2.99574
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:034
+CRC valid!
+
+[1frame_sync_impl.cc] 32My STO: 3.93763e-07
+[frame_sync_impl.cc] 33 CFO estimate: -0.17841, STO estimate: 86.0491 snr est: 2.42263
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:035
+CRC valid!
+
+[1frame_sync_impl.cc] 33My STO: -2.07436e-06
+[frame_sync_impl.cc] 34 CFO estimate: -0.179169, STO estimate: 0.740601 snr est: 0.170858
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:036
+CRC valid!
+
+[1frame_sync_impl.cc] 34My STO: 0.000220192
+[1frame_sync_impl.cc] 34My STO: 1.52462e-06
+[frame_sync_impl.cc] 35 CFO estimate: -0.18625, STO estimate: 55.1905 snr est: -3.10427
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:037
+CRC valid!
+
+[1frame_sync_impl.cc] 35My STO: 2.56574e-06
+[frame_sync_impl.cc] 36 CFO estimate: -0.185863, STO estimate: 77.3206 snr est: 1.20169
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:038
+CRC valid!
+
+[1frame_sync_impl.cc] 36My STO: 2.03301e-06
+[frame_sync_impl.cc] 37 CFO estimate: -0.182005, STO estimate: 19.254 snr est: 2.05926
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:039
+CRC valid!
+
+[1frame_sync_impl.cc] 37My STO: -2.86468e-06
+[frame_sync_impl.cc] 38 CFO estimate: -0.188702, STO estimate: 85.6418 snr est: 1.64111
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:040
+CRC valid!
+
+[1frame_sync_impl.cc] 38My STO: -8.6186e-07
+[frame_sync_impl.cc] 39 CFO estimate: -0.176377, STO estimate: 74.8922 snr est: -0.699778
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:041
+CRC valid!
+
+[1frame_sync_impl.cc] 39My STO: 0.000108137
+[1frame_sync_impl.cc] 39My STO: 6.55704e-07
+[frame_sync_impl.cc] 40 CFO estimate: -0.176353, STO estimate: 93.0819 snr est: -3.70595
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:042
+CRC valid!
+
+[1frame_sync_impl.cc] 40My STO: -3.77823e-06
+[frame_sync_impl.cc] 41 CFO estimate: -0.191462, STO estimate: 59.5276 snr est: -0.640319
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:043
+CRC valid!
+
+[1frame_sync_impl.cc] 41My STO: -0.00023659
+[1frame_sync_impl.cc] 41My STO: 3.26645e-06
+[frame_sync_impl.cc] 42 CFO estimate: -0.188632, STO estimate: 66.4082 snr est: 0.549293
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:044
+CRC valid!
+
+[1frame_sync_impl.cc] 42My STO: -1.72891e-06
+[frame_sync_impl.cc] 43 CFO estimate: -0.166156, STO estimate: 123.784 snr est: 0.50502
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:045
+CRC valid!
+
+[1frame_sync_impl.cc] 43My STO: 0.000156188
+[1frame_sync_impl.cc] 43My STO: 0.000196307
+[1frame_sync_impl.cc] 43My STO: -9.45024e-07
+[frame_sync_impl.cc] 44 CFO estimate: -0.193087, STO estimate: 3.88176 snr est: -0.542484
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:046
+CRC valid!
+
+[1frame_sync_impl.cc] 44My STO: 3.16329e-07
+[frame_sync_impl.cc] 45 CFO estimate: -0.177941, STO estimate: 30.0394 snr est: 1.90195
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:047
+CRC valid!
+
+[1frame_sync_impl.cc] 45My STO: -2.37416e-06
+[frame_sync_impl.cc] 46 CFO estimate: -0.176205, STO estimate: 56.7031 snr est: 0.278782
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:048
+CRC valid!
+
+[1frame_sync_impl.cc] 46My STO: -3.46945e-06
+[frame_sync_impl.cc] 47 CFO estimate: -0.194387, STO estimate: 103.566 snr est: 1.16042
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:049
+CRC valid!
+
+[1frame_sync_impl.cc] 47My STO: 0.000140275
+[1frame_sync_impl.cc] 47My STO: -1.43767e-07
+[frame_sync_impl.cc] 48 CFO estimate: -0.175736, STO estimate: 113.982 snr est: 1.61625
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:050
+CRC valid!
+
+[1frame_sync_impl.cc] 48My STO: 2.53956e-06
+[frame_sync_impl.cc] 49 CFO estimate: -0.190584, STO estimate: 55.3173 snr est: 2.04109
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:051
+CRC valid!
+
+[1frame_sync_impl.cc] 49My STO: -2.91538e-07
+[frame_sync_impl.cc] 50 CFO estimate: -0.190483, STO estimate: 9.96345 snr est: 0.940855
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:052
+CRC valid!
+
+[1frame_sync_impl.cc] 50My STO: 1.60667e-07
+[frame_sync_impl.cc] 51 CFO estimate: -0.188365, STO estimate: 103.02 snr est: -1.4528
+
+--------Header--------
+Payload length: 18
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Giuliano 8MSPS:053
+CRC valid!
+
+[1frame_sync_impl.cc] 51My STO: 0.000148039
+[1frame_sync_impl.cc] 51My STO: 0.000148112
+[1frame_sync_impl.cc] 51My STO: -0.000156248
+[1frame_sync_impl.cc] 51My STO: 0.000204319

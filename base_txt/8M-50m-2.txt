@@ -1,0 +1,710 @@
+usrp_source :info: set_min_output_buffer on block 1 to 4160
+Press Enter to quit: [1frame_sync_impl.cc] 0My STO: -1.58102e-08
+[frame_sync_impl.cc] 1 CFO estimate: -0.191786, STO estimate: 50.9979 snr est: -1.49638
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:0
+CRC valid!
+
+[1frame_sync_impl.cc] 1My STO: -2.78037e-06
+[frame_sync_impl.cc] 2 CFO estimate: -0.179805, STO estimate: 24.6523 snr est: -0.903992
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:01
+CRC valid!
+
+[1frame_sync_impl.cc] 2My STO: 3.98337e-06
+[frame_sync_impl.cc] 3 CFO estimate: -0.192643, STO estimate: 36.4978 snr est: -2.82862
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:02
+CRC valid!
+
+[1frame_sync_impl.cc] 3My STO: -3.84636e-07
+[frame_sync_impl.cc] 4 CFO estimate: -0.184059, STO estimate: 39.9518 snr est: -0.828234
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:03
+CRC valid!
+
+[1frame_sync_impl.cc] 4My STO: 1.66115e-07
+[frame_sync_impl.cc] 5 CFO estimate: -0.20729, STO estimate: 46.0206 snr est: -2.72644
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:04
+CRC valid!
+
+[1frame_sync_impl.cc] 5My STO: 1.59157e-07
+[frame_sync_impl.cc] 6 CFO estimate: -0.175849, STO estimate: 119.02 snr est: -1.48967
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:05
+CRC valid!
+
+[1frame_sync_impl.cc] 6My STO: -2.85239e-06
+[frame_sync_impl.cc] 7 CFO estimate: -0.205404, STO estimate: 11.6433 snr est: -1.21089
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:06
+CRC valid!
+
+[1frame_sync_impl.cc] 7My STO: 1.22705e-06
+[frame_sync_impl.cc] 8 CFO estimate: -0.190789, STO estimate: 40.1533 snr est: -0.467965
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:07
+CRC valid!
+
+[1frame_sync_impl.cc] 8My STO: 3.28044e-06
+[frame_sync_impl.cc] 9 CFO estimate: -0.191589, STO estimate: 67.4099 snr est: -0.593147
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:08
+CRC valid!
+
+[1frame_sync_impl.cc] 9My STO: 3.07134e-06
+[frame_sync_impl.cc] 10 CFO estimate: -0.188861, STO estimate: 80.3838 snr est: -0.11644
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:09
+CRC valid!
+
+[1frame_sync_impl.cc] 10My STO: 3.68923e-06
+[frame_sync_impl.cc] 11 CFO estimate: -0.190322, STO estimate: 121.461 snr est: -0.870943
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:010
+CRC valid!
+
+[1frame_sync_impl.cc] 11My STO: 2.2442e-06
+[frame_sync_impl.cc] 12 CFO estimate: -0.189044, STO estimate: 70.2804 snr est: 0.316352
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:011
+CRC valid!
+
+[1frame_sync_impl.cc] 12My STO: 6.09724e-08
+[frame_sync_impl.cc] 13 CFO estimate: -0.183739, STO estimate: 63.0075 snr est: 0.745138
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:012
+CRC valid!
+
+[1frame_sync_impl.cc] 13My STO: -1.30577e-06
+[frame_sync_impl.cc] 14 CFO estimate: -0.189856, STO estimate: 19.8367 snr est: 1.81813
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:013
+CRC valid!
+
+[1frame_sync_impl.cc] 14My STO: -2.24909e-06
+[frame_sync_impl.cc] 15 CFO estimate: -0.190077, STO estimate: -0.281247 snr est: 0.688042
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:014
+CRC valid!
+
+[1frame_sync_impl.cc] 15My STO: -1.75486e-06
+[frame_sync_impl.cc] 16 CFO estimate: -0.171298, STO estimate: 9.78054 snr est: -1.75543
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:015
+CRC valid!
+
+[1frame_sync_impl.cc] 16My STO: 9.10966e-07
+[frame_sync_impl.cc] 17 CFO estimate: -0.187811, STO estimate: 85.1138 snr est: -0.62574
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:016
+CRC valid!
+
+[1frame_sync_impl.cc] 17My STO: -2.84343e-06
+[frame_sync_impl.cc] 18 CFO estimate: -0.176265, STO estimate: 53.6445 snr est: -0.435763
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:017
+CRC valid!
+
+[1frame_sync_impl.cc] 18My STO: -1.74257e-06
+[frame_sync_impl.cc] 19 CFO estimate: -0.190293, STO estimate: 6.78207 snr est: -0.548984
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:018
+CRC valid!
+
+[1frame_sync_impl.cc] 19My STO: -5.57666e-07
+[frame_sync_impl.cc] 20 CFO estimate: -0.184751, STO estimate: 10.9302 snr est: -1.48719
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:019
+CRC valid!
+
+[1frame_sync_impl.cc] 20My STO: 1.04459e-08
+[frame_sync_impl.cc] 21 CFO estimate: -0.191615, STO estimate: 46.0012 snr est: -1.32798
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:020
+CRC valid!
+
+[1frame_sync_impl.cc] 21My STO: 2.51088e-06
+[frame_sync_impl.cc] 22 CFO estimate: -0.195341, STO estimate: 99.3137 snr est: -0.492854
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:021
+CRC valid!
+
+[1frame_sync_impl.cc] 22My STO: 3.34847e-06
+[frame_sync_impl.cc] 23 CFO estimate: -0.193001, STO estimate: 16.4184 snr est: -1.08479
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:022
+CRC valid!
+
+[1frame_sync_impl.cc] 23My STO: -1.24765e-06
+[frame_sync_impl.cc] 24 CFO estimate: -0.181393, STO estimate: 26.8439 snr est: -1.23872
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:023
+CRC valid!
+
+[1frame_sync_impl.cc] 24My STO: -2.77883e-06
+[frame_sync_impl.cc] 25 CFO estimate: -0.173469, STO estimate: 43.6525 snr est: -1.52952
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:024
+CRC valid!
+
+[1frame_sync_impl.cc] 25My STO: -1.14637e-06
+[frame_sync_impl.cc] 26 CFO estimate: -0.1698, STO estimate: 104.857 snr est: -1.21179
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:025
+CRC valid!
+
+[1frame_sync_impl.cc] 26My STO: 1.16618e-07
+[frame_sync_impl.cc] 27 CFO estimate: -0.181303, STO estimate: 90.0145 snr est: -5.03626
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:026
+CRC valid!
+
+[1frame_sync_impl.cc] 27My STO: -1.63072e-06
+[frame_sync_impl.cc] 28 CFO estimate: -0.192164, STO estimate: -0.203952 snr est: -2.00801
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:027
+CRC valid!
+
+[1frame_sync_impl.cc] 28My STO: 3.38059e-06
+[frame_sync_impl.cc] 29 CFO estimate: -0.194971, STO estimate: 64.4225 snr est: -5.1724
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:028
+CRC valid!
+
+[1frame_sync_impl.cc] 29My STO: -1.17714e-05
+[frame_sync_impl.cc] 30 CFO estimate: -1.21263, STO estimate: 116.528 snr est: -4.35147
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:029
+CRC valid!
+
+[1frame_sync_impl.cc] 30My STO: -1.09454e-06
+[frame_sync_impl.cc] 31 CFO estimate: -0.155541, STO estimate: 83.8631 snr est: -1.25426
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:030
+CRC valid!
+
+[1frame_sync_impl.cc] 31My STO: 3.46538e-06
+[frame_sync_impl.cc] 32 CFO estimate: -0.19518, STO estimate: 101.433 snr est: -2.54031
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:031
+CRC valid!
+
+[1frame_sync_impl.cc] 32My STO: -1.1263e-06
+[frame_sync_impl.cc] 33 CFO estimate: -0.189278, STO estimate: 76.8591 snr est: -3.45873
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:032
+CRC valid!
+
+[1frame_sync_impl.cc] 33My STO: -6.20821e-07
+[frame_sync_impl.cc] 34 CFO estimate: -0.181997, STO estimate: 55.9223 snr est: -4.80333
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:033
+CRC valid!
+
+[1frame_sync_impl.cc] 34My STO: 2.59347e-06
+[frame_sync_impl.cc] 35 CFO estimate: -0.194414, STO estimate: 18.3241 snr est: -3.78799
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:034
+CRC valid!
+
+[1frame_sync_impl.cc] 35My STO: 2.33669e-06
+[frame_sync_impl.cc] 36 CFO estimate: -0.18448, STO estimate: 34.292 snr est: 0.789644
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:035
+CRC valid!
+
+[1frame_sync_impl.cc] 36My STO: 8.58291e-08
+[frame_sync_impl.cc] 37 CFO estimate: -0.179474, STO estimate: 46.0106 snr est: -2.74701
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:036
+CRC valid!
+
+[1frame_sync_impl.cc] 37My STO: -2.48531e-06
+[frame_sync_impl.cc] 38 CFO estimate: -0.19741, STO estimate: 23.6892 snr est: -1.83176
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:037
+CRC valid!
+
+[1frame_sync_impl.cc] 38My STO: -3.86285e-06
+[frame_sync_impl.cc] 39 CFO estimate: -0.195302, STO estimate: 57.517 snr est: -3.34551
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:038
+CRC valid!
+
+[1frame_sync_impl.cc] 39My STO: -7.25047e-07
+[frame_sync_impl.cc] 40 CFO estimate: -0.180778, STO estimate: 108.909 snr est: -8.25866
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:039
+CRC valid!
+
+[1frame_sync_impl.cc] 40My STO: -1.1829e-05
+[frame_sync_impl.cc] 41 CFO estimate: -1.20652, STO estimate: 46.5207 snr est: -6.52528
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:040
+CRC valid!
+
+[1frame_sync_impl.cc] 41My STO: 3.50126e-06
+[frame_sync_impl.cc] 42 CFO estimate: -0.204358, STO estimate: 49.4375 snr est: -6.32604
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:041
+CRC valid!
+
+[1frame_sync_impl.cc] 42My STO: 3.66535e-06
+[frame_sync_impl.cc] 43 CFO estimate: -0.189851, STO estimate: 12.4581 snr est: -7.89843
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:043
+CRC valid!
+
+[1frame_sync_impl.cc] 43My STO: -2.76128e-06
+[frame_sync_impl.cc] 44 CFO estimate: -0.170863, STO estimate: 44.6547 snr est: -7.5764
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:044
+CRC valid!
+
+[1frame_sync_impl.cc] 44My STO: -2.97801e-06
+[frame_sync_impl.cc] 45 CFO estimate: -0.188002, STO estimate: 48.6276 snr est: -4.50849
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:045
+CRC valid!
+
+[1frame_sync_impl.cc] 45My STO: 3.90029e-06
+[frame_sync_impl.cc] 46 CFO estimate: -0.200065, STO estimate: 72.4874 snr est: -4.09709
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:046
+CRC valid!
+
+[1frame_sync_impl.cc] 46My STO: -5.91978e-07
+[frame_sync_impl.cc] 47 CFO estimate: -0.185743, STO estimate: 14.9259 snr est: -5.87922
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:047
+CRC valid!
+
+[1frame_sync_impl.cc] 47My STO: 3.86318e-06
+[frame_sync_impl.cc] 48 CFO estimate: -0.181408, STO estimate: 40.4828 snr est: -5.93935
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:048
+CRC valid!
+
+[1frame_sync_impl.cc] 48My STO: 7.86009e-07
+[frame_sync_impl.cc] 49 CFO estimate: -0.187872, STO estimate: 22.0981 snr est: -3.43057
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:049
+CRC valid!
+
+[1frame_sync_impl.cc] 49My STO: 2.45571e-06
+[frame_sync_impl.cc] 50 CFO estimate: -0.184032, STO estimate: 124.307 snr est: -3.25829
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:050
+CRC valid!
+
+[1frame_sync_impl.cc] 50My STO: -7.4639e-07
+[frame_sync_impl.cc] 51 CFO estimate: -0.207566, STO estimate: 45.9066 snr est: -8.67128
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:051
+CRC valid!
+
+[1frame_sync_impl.cc] 51My STO: 3.48357e-06
+[frame_sync_impl.cc] 52 CFO estimate: -0.219049, STO estimate: 13.4353 snr est: -8.24067
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:052
+CRC valid!
+
+[1frame_sync_impl.cc] 52My STO: -3.00409e-07
+[frame_sync_impl.cc] 53 CFO estimate: -0.186469, STO estimate: 62.9623 snr est: -5.15824
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:053
+CRC valid!
+
+[1frame_sync_impl.cc] 53My STO: -2.58398e-06
+[frame_sync_impl.cc] 54 CFO estimate: -0.210327, STO estimate: 70.6769 snr est: -0.303262
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:054
+CRC valid!
+
+[1frame_sync_impl.cc] 54My STO: -2.41047e-06
+[frame_sync_impl.cc] 55 CFO estimate: -0.185351, STO estimate: 21.6986 snr est: -2.08369
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:055
+CRC valid!
+
+[1frame_sync_impl.cc] 55My STO: -2.48494e-07
+[frame_sync_impl.cc] 56 CFO estimate: -0.174419, STO estimate: 100.969 snr est: -1.05066
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:056
+CRC valid!
+
+[1frame_sync_impl.cc] 56My STO: -1.16794e-05
+[frame_sync_impl.cc] 57 CFO estimate: -1.18974, STO estimate: 17.5394 snr est: -3.49105
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:057
+CRC valid!
+
+[1frame_sync_impl.cc] 57My STO: 1.60055e-06
+[frame_sync_impl.cc] 58 CFO estimate: -0.185304, STO estimate: 71.2 snr est: -2.86233
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:058
+CRC valid!
+
+[1frame_sync_impl.cc] 58My STO: -2.52349e-06
+[frame_sync_impl.cc] 59 CFO estimate: -0.178246, STO estimate: 27.6845 snr est: -3.76882
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: Mapuka 8MSPS:059
+CRC valid!
+
+[1frame_sync_impl.cc] 59My STO: -0.000223187

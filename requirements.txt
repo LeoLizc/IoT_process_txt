@@ -1,4 +1,4 @@
-colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+colorama==0.4.6
 setuptools==75.8.0
-tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
+tqdm==4.67.1
 wheel==0.45.1

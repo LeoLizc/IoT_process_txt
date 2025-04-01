@@ -63,17 +63,17 @@ Pre-procesamiento de los archivos txt generados durante las distintas simulacion
 
 ## Uso
 
-El script se ejecuta desde la línea de comandos. Por defecto, utiliza la carpeta `base_txt` para los archivos de entrada y `preprocessed_txt` para los de salida.
+El script se ejecuta desde la línea de comandos. Por defecto, utiliza la carpeta `base_txt` para los archivos de entrada y `preprocessed_csv` para los de salida.
 
 Ejemplo de uso:
 
 ```bash
-python preprocess.py --input_folder base_txt --output_folder preprocessed_txt --slow-down 0.3
+python preprocess.py --input_folder base_txt --output_folder preprocessed_csv_ --slow-down 0.3
 ```
 
 Parámetros:
 - `--input_folder`: Carpeta donde se encuentran los archivos a procesar. Por defecto: `base_txt`.
-- `--output_folder`: Carpeta donde se guardarán los archivos procesados. Por defecto: `preprocessed_txt`.
+- `--output_folder`: Carpeta donde se guardarán los archivos procesados. Por defecto: `preprocessed_csv`.
 - `--slow-down`: Valor flotante que indica el retardo en segundos después de procesar cada archivo. Por defecto: `0.3`.
 
 ## Estructura del Proyecto
@@ -81,7 +81,7 @@ Parámetros:
 ```
 preprocessing-txt-files/
 ├── base_txt/                # Carpeta de entrada (archivos originales)
-├── preprocessed_txt/        # Carpeta de salida (archivos procesados)
+├── preprocessed_csv/        # Carpeta de salida (archivos procesados)
 ├── preprocess.py            # Script principal de procesamiento
 ├── README.md                # Este archivo
 ├── requirements.txt         # Archivo con las dependencias (si se utiliza pip)

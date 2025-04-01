@@ -104,7 +104,7 @@ def process_files(input_folder, output_folder, slow_down: float):
         if match:
             freq, distance, version = match.groups()
             input_file_path = os.path.join(input_folder, filename)
-            output_file_path = os.path.join(output_folder, filename)
+            output_file_path = os.path.join(output_folder, filename.replace('.txt', '.csv'))
             
             with open(input_file_path, 'r', encoding='utf-8', errors='replace') as infile, \
                  open(output_file_path, 'w', encoding='utf-8') as outfile:
@@ -118,8 +118,8 @@ def main():
     parser = argparse.ArgumentParser(description="Script para procesar archivos según una regex")
     parser.add_argument("--input_folder", default="base_txt",
                         help="Carpeta de entrada con los archivos (por defecto: base_txt)")
-    parser.add_argument("--output_folder", default="preprocessed_txt",
-                        help="Carpeta de salida donde se guardarán los resultados (por defecto: preprocessed_txt)")
+    parser.add_argument("--output_folder", default="preprocessed_csv",
+                        help="Carpeta de salida donde se guardarán los resultados (por defecto: preprocessed_csv)")
     parser.add_argument("--slow-down", type=float, default=0.3,
                         help="Tiempo de retardo en segundos durante el procesamiento de cada archivo (por defecto: 0.3)")
     args = parser.parse_args()

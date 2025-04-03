@@ -31,7 +31,21 @@ class Row:
 # Expresión regular para filtrar los archivos
 FILE_REGEX = re.compile(r'^(\d+[mk])-(\d+m)-(\d+)[.]txt$', re.IGNORECASE)
 
-def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, separator: str, freq, distance, version):
+def set_header(outfile: TextIOWrapper, separator: str):
+    """
+    Función para establecer el encabezado del archivo CSV.
+    
+    Parámetros:
+      outfile  - Objeto de archivo de salida
+      separator - Separador para el archivo CSV
+    
+    Devuelve:
+      None
+    """
+    # Escribiendo encabezado en el archivo de salida
+    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum\n')
+
+def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: TextIOWrapper| None, separator: str, freq, distance, version):
     """
     Función de pre-procesado (aún sin implementación).
     
@@ -46,13 +60,16 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, separator: str, f
     el resultado en el archivo de salida. Por ahora, simplemente copia el contenido.
     """
     #escribiendo encabezado en el archivo de salida
-    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum\n')
+    set_header(outfile, separator)
 
     # Función para escribir en el archivo de salida
     def write_row(row: Row):
         # Convertir el dataclass a una cadena CSV
         values = [f'"{row.mensaje}"', str(row.numero), row.my_sto, row.sto, row.cfo, row.snr, str(int(row.crc_error)), str(row.overflow_count)]
         outfile.write(separator.join(values) + '\n')
+        if merged_file:
+            # Escribir en el archivo combinado
+            merged_file.write(separator.join(values) + '\n')
 
         row.mensaje = ""
         row.numero = -1
@@ -108,9 +125,15 @@ def gen_file_name(freq: str, distance: str, version: str, str_format: str):
     return str_format.format(freq=freq, distance=distance, version=version)
     
 
-def process_files(input_folder: str, output_folder: str, slow_down: float, separator: str):
+def process_files(input_folder: str, output_folder: str, merge: bool, slow_down: float, separator: str):
     # Asegurarse de que la carpeta de salida exista
     os.makedirs(output_folder, exist_ok=True)
+    if merge:
+        os.makedirs(os.path.join(output_folder, 'merge'), exist_ok=True)
+        # Limpiar la carpeta merge si existe
+        merge_folder = os.path.join(output_folder, 'merge')
+        for file in os.listdir(merge_folder):
+            os.remove(os.path.join(merge_folder, file))
     
     # Listar los archivos que cumplen con la regex en la carpeta de entrada
     files = [f for f in os.listdir(input_folder) if FILE_REGEX.match(f)]
@@ -122,10 +145,21 @@ def process_files(input_folder: str, output_folder: str, slow_down: float, separ
             freq, distance, version = match.groups()
             input_file_path = os.path.join(input_folder, filename)
             output_file_path = os.path.join(output_folder, filename.replace('.txt', '.csv'))
+            if merge:
+                merged_file_path = os.path.join(output_folder, 'merge', f'{freq}-{distance}.csv')
             
             with open(input_file_path, 'r', encoding='utf-8', errors='replace') as infile, \
                  open(output_file_path, 'w', encoding='utf-8') as outfile:
-                pre_process(infile, outfile, separator, freq, distance, version)
+                if merge:
+                    # Check if merged file exists to write header
+                    file_exists = os.path.isfile(merged_file_path)
+                    with open(merged_file_path, 'a', encoding='utf-8') as merged_file:
+                        # Write header if file is new
+                        if not file_exists:
+                            set_header(merged_file, separator)
+                        pre_process(infile, outfile, merged_file, separator, freq, distance, version)
+                else:
+                    pre_process(infile, outfile, None, separator, freq, distance, version)
                 
             # Opcional: mensaje de confirmación por archivo
             # print(f"Procesado: {filename}")
@@ -141,10 +175,12 @@ def main():
                         help="Tiempo de retardo en segundos durante el procesamiento de cada archivo (por defecto: 0.3)")
     parser.add_argument("--separator", default=",",
                         help="Separador para el archivo CSV (por defecto: ',')")
+    parser.add_argument("--merge", action='store_true', default=False,
+                        help="Si se establece, fusiona todos los archivos en uno solo")
     
     args = parser.parse_args()
     
-    process_files(args.input_folder, args.output_folder, args.slow_down, args.separator)
+    process_files(args.input_folder, args.output_folder, args.merge, args.slow_down, args.separator)
 
 if __name__ == "__main__":
     main()

@@ -92,6 +92,22 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, separator: str, f
             # Si no hay coincidencias, se puede decidir qué hacer (opcional)
             pass
 
+def gen_file_name(freq: str, distance: str, version: str, str_format: str):
+    """
+    Genera un nombre de archivo basado en la frecuencia, distancia y versión.
+    
+    Parámetros:
+      freq     - Frecuencia de muestreo
+      distance - Distancia
+      version  - Versión
+      str_format - Formato de cadena para el nombre del archivo
+    
+    Devuelve:
+      Nombre de archivo generado.
+    """
+    return str_format.format(freq=freq, distance=distance, version=version)
+    
+
 def process_files(input_folder: str, output_folder: str, slow_down: float, separator: str):
     # Asegurarse de que la carpeta de salida exista
     os.makedirs(output_folder, exist_ok=True)

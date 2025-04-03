@@ -31,7 +31,7 @@ class Row:
 # Expresión regular para filtrar los archivos
 FILE_REGEX = re.compile(r'^(\d+[mk])-(\d+m)-(\d+)[.]txt$', re.IGNORECASE)
 
-def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, freq, distance, version):
+def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, separator: str, freq, distance, version):
     """
     Función de pre-procesado (aún sin implementación).
     
@@ -46,12 +46,13 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, freq, distance, v
     el resultado en el archivo de salida. Por ahora, simplemente copia el contenido.
     """
     #escribiendo encabezado en el archivo de salida
-    outfile.write("mensaje,numero,my_sto,sto,cfo,snr,crc_error,previous_overflow_sum\n")
+    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum\n')
 
     # Función para escribir en el archivo de salida
     def write_row(row: Row):
         # Convertir el dataclass a una cadena CSV
-        outfile.write(f'"{row.mensaje}",{row.numero},{row.my_sto},{row.sto},{row.cfo},{row.snr},{int(row.crc_error)},{row.overflow_count}\n')
+        values = [f'"{row.mensaje}"', str(row.numero), row.my_sto, row.sto, row.cfo, row.snr, str(int(row.crc_error)), str(row.overflow_count)]
+        outfile.write(separator.join(values) + '\n')
 
         row.mensaje = ""
         row.numero = -1
@@ -91,7 +92,7 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, freq, distance, v
             # Si no hay coincidencias, se puede decidir qué hacer (opcional)
             pass
 
-def process_files(input_folder, output_folder, slow_down: float):
+def process_files(input_folder: str, output_folder: str, slow_down: float, separator: str):
     # Asegurarse de que la carpeta de salida exista
     os.makedirs(output_folder, exist_ok=True)
     
@@ -108,7 +109,7 @@ def process_files(input_folder, output_folder, slow_down: float):
             
             with open(input_file_path, 'r', encoding='utf-8', errors='replace') as infile, \
                  open(output_file_path, 'w', encoding='utf-8') as outfile:
-                pre_process(infile, outfile, freq, distance, version)
+                pre_process(infile, outfile, separator, freq, distance, version)
                 
             # Opcional: mensaje de confirmación por archivo
             # print(f"Procesado: {filename}")
@@ -122,9 +123,12 @@ def main():
                         help="Carpeta de salida donde se guardarán los resultados (por defecto: preprocessed_csv)")
     parser.add_argument("--slow-down", type=float, default=0.3,
                         help="Tiempo de retardo en segundos durante el procesamiento de cada archivo (por defecto: 0.3)")
+    parser.add_argument("--separator", default=",",
+                        help="Separador para el archivo CSV (por defecto: ',')")
+    
     args = parser.parse_args()
     
-    process_files(args.input_folder, args.output_folder, args.slow_down)
+    process_files(args.input_folder, args.output_folder, args.slow_down, args.separator)
 
 if __name__ == "__main__":
     main()

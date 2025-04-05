@@ -1,0 +1,1225 @@
+usrp_source :info: set_min_output_buffer on block 1 to 4160
+Press Enter to quit: [1frame_sync_impl.cc] 0My STO: 5.40032e-07
+[frame_sync_impl.cc] 1 CFO estimate: -0.177525, STO estimate: 48.0674 snr est: 20.6317
+
+--------Header--------
+Payload length: 10
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:0
+CRC valid!
+
+[1frame_sync_impl.cc] 1My STO: 1.01925e-06
+[frame_sync_impl.cc] 2 CFO estimate: -0.180525, STO estimate: 59.1273 snr est: 18.9488
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:01
+CRC valid!
+
+[1frame_sync_impl.cc] 2My STO: 2.4849e-06
+[frame_sync_impl.cc] 3 CFO estimate: -0.185939, STO estimate: 57.3105 snr est: 20.3911
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:02
+CRC valid!
+
+[1frame_sync_impl.cc] 3My STO: 1.04465e-06
+[frame_sync_impl.cc] 4 CFO estimate: -0.179333, STO estimate: 19.1305 snr est: 20.4081
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:03
+CRC valid!
+
+[1frame_sync_impl.cc] 4My STO: 1.82047e-06
+[frame_sync_impl.cc] 5 CFO estimate: -0.18246, STO estimate: 123.227 snr est: 20.0183
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:04
+CRC valid!
+
+[1frame_sync_impl.cc] 5My STO: 2.71669e-06
+[frame_sync_impl.cc] 6 CFO estimate: -0.186118, STO estimate: 85.3395 snr est: 20.4495
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:05
+CRC valid!
+
+[1frame_sync_impl.cc] 6My STO: 1.24636e-06
+[frame_sync_impl.cc] 7 CFO estimate: -0.18025, STO estimate: 78.1557 snr est: 20.6818
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:06
+CRC valid!
+
+[1frame_sync_impl.cc] 7My STO: 9.11966e-07
+[frame_sync_impl.cc] 8 CFO estimate: -0.182128, STO estimate: 47.1139 snr est: 20.4772
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:07
+CRC valid!
+
+[1frame_sync_impl.cc] 8My STO: -1.16813e-05
+[frame_sync_impl.cc] 9 CFO estimate: -1.18532, STO estimate: 17.5391 snr est: 20.388
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:08
+CRC valid!
+
+[1frame_sync_impl.cc] 9My STO: -3.41372e-06
+[frame_sync_impl.cc] 10 CFO estimate: -0.185858, STO estimate: 74.5732 snr est: 19.7157
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:09
+CRC valid!
+
+[1frame_sync_impl.cc] 10My STO: -2.69815e-06
+[frame_sync_impl.cc] 11 CFO estimate: -0.196495, STO estimate: 111.663 snr est: 19.0635
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:010
+CRC valid!
+
+[1frame_sync_impl.cc] 11My STO: -8.42347e-07
+[frame_sync_impl.cc] 12 CFO estimate: -0.172926, STO estimate: 9.89461 snr est: 19.8255
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:011
+CRC valid!
+
+[1frame_sync_impl.cc] 12My STO: -7.37224e-07
+[frame_sync_impl.cc] 13 CFO estimate: -0.175477, STO estimate: 53.9077 snr est: 20.4965
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:012
+CRC valid!
+
+[1frame_sync_impl.cc] 13My STO: 4.72362e-07
+[frame_sync_impl.cc] 14 CFO estimate: -0.178892, STO estimate: 33.0589 snr est: 20.5234
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:013
+CRC valid!
+
+[1frame_sync_impl.cc] 14My STO: -2.23308e-06
+[frame_sync_impl.cc] 15 CFO estimate: -0.173311, STO estimate: 55.7208 snr est: 20.4759
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:014
+CRC valid!
+
+[1frame_sync_impl.cc] 15My STO: -2.53185e-06
+[frame_sync_impl.cc] 16 CFO estimate: -0.194582, STO estimate: 63.6834 snr est: 20.5236
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:015
+CRC valid!
+
+[1frame_sync_impl.cc] 16My STO: -1.14333e-05
+[frame_sync_impl.cc] 17 CFO estimate: -1.19205, STO estimate: 118.57 snr est: 16.1835
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:016
+CRC valid!
+
+[1frame_sync_impl.cc] 17My STO: -1.49916e-06
+[frame_sync_impl.cc] 18 CFO estimate: -0.17411, STO estimate: 123.813 snr est: 19.7589
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:017
+CRC valid!
+
+[1frame_sync_impl.cc] 18My STO: -1.73317e-06
+[frame_sync_impl.cc] 19 CFO estimate: -0.171715, STO estimate: 51.7833 snr est: 20.0626
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:018
+CRC valid!
+
+[1frame_sync_impl.cc] 19My STO: -1.11368e-06
+[frame_sync_impl.cc] 20 CFO estimate: -0.174106, STO estimate: 90.8607 snr est: 19.4609
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:019
+CRC valid!
+
+[1frame_sync_impl.cc] 20My STO: 1.16663e-06
+[frame_sync_impl.cc] 21 CFO estimate: -0.182308, STO estimate: 9.14572 snr est: 20.4653
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:020
+CRC valid!
+
+[1frame_sync_impl.cc] 21My STO: -1.15165e-05
+[frame_sync_impl.cc] 22 CFO estimate: -1.19453, STO estimate: 113.56 snr est: 14.5536
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:021
+CRC valid!
+
+[1frame_sync_impl.cc] 22My STO: 1.15153e-06
+[frame_sync_impl.cc] 23 CFO estimate: -0.180492, STO estimate: 120.144 snr est: 20.3604
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:022
+CRC valid!
+
+[1frame_sync_impl.cc] 23My STO: -1.34589e-06
+[frame_sync_impl.cc] 24 CFO estimate: -0.172579, STO estimate: 2.83166 snr est: 19.6391
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:023
+CRC valid!
+
+[1frame_sync_impl.cc] 24My STO: -7.8353e-07
+[frame_sync_impl.cc] 25 CFO estimate: -0.174251, STO estimate: 65.902 snr est: 20.2722
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:024
+CRC valid!
+
+[1frame_sync_impl.cc] 25My STO: 8.23597e-07
+[frame_sync_impl.cc] 26 CFO estimate: -0.179619, STO estimate: 103.103 snr est: 20.4696
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:025
+CRC valid!
+
+[1frame_sync_impl.cc] 26My STO: 2.2911e-06
+[frame_sync_impl.cc] 27 CFO estimate: -0.190628, STO estimate: 70.2863 snr est: 8.73787
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:026
+CRC valid!
+
+[1frame_sync_impl.cc] 27My STO: -2.92766e-06
+[frame_sync_impl.cc] 28 CFO estimate: -0.192536, STO estimate: 53.6339 snr est: 19.4411
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:027
+CRC valid!
+
+[1frame_sync_impl.cc] 28My STO: -2.62976e-06
+[frame_sync_impl.cc] 29 CFO estimate: -0.193581, STO estimate: 107.671 snr est: 19.6516
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:028
+CRC valid!
+
+[1frame_sync_impl.cc] 29My STO: -1.92139e-06
+[frame_sync_impl.cc] 30 CFO estimate: -0.170316, STO estimate: 39.7597 snr est: 20.4958
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:029
+CRC valid!
+
+[1frame_sync_impl.cc] 30My STO: 2.41728e-06
+[frame_sync_impl.cc] 31 CFO estimate: -0.186306, STO estimate: 29.3021 snr est: 19.9662
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:030
+CRC valid!
+
+[1frame_sync_impl.cc] 31My STO: -1.45146e-06
+[frame_sync_impl.cc] 32 CFO estimate: -0.17232, STO estimate: 46.8185 snr est: 20.3251
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:031
+CRC valid!
+
+[1frame_sync_impl.cc] 32My STO: -1.0754e-06
+[frame_sync_impl.cc] 33 CFO estimate: -0.175358, STO estimate: 79.8655 snr est: 19.959
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:032
+CRC valid!
+
+[1frame_sync_impl.cc] 33My STO: 1.82589e-06
+[frame_sync_impl.cc] 34 CFO estimate: -0.183994, STO estimate: 59.2281 snr est: 19.8773
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:033
+CRC valid!
+
+[1frame_sync_impl.cc] 34My STO: -2.63093e-06
+[frame_sync_impl.cc] 35 CFO estimate: -0.194784, STO estimate: 4.67102 snr est: 19.8823
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:034
+CRC valid!
+
+[1frame_sync_impl.cc] 35My STO: 3.92573e-06
+[frame_sync_impl.cc] 36 CFO estimate: -0.18821, STO estimate: 122.491 snr est: 20.2334
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:035
+CRC valid!
+
+[1frame_sync_impl.cc] 36My STO: -1.18626e-05
+[frame_sync_impl.cc] 37 CFO estimate: -1.19122, STO estimate: 120.516 snr est: 14.1979
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:036
+CRC valid!
+
+[1frame_sync_impl.cc] 37My STO: 3.57884e-07
+[frame_sync_impl.cc] 38 CFO estimate: -0.182541, STO estimate: 77.0446 snr est: 20.0853
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:037
+CRC valid!
+
+[1frame_sync_impl.cc] 38My STO: 5.14308e-07
+[frame_sync_impl.cc] 39 CFO estimate: -0.18055, STO estimate: 125.064 snr est: 20.4729
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:038
+CRC valid!
+
+[1frame_sync_impl.cc] 39My STO: 2.89735e-06
+[frame_sync_impl.cc] 40 CFO estimate: -0.189145, STO estimate: 121.362 snr est: 20.1551
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:039
+CRC valid!
+
+[1frame_sync_impl.cc] 40My STO: 2.4513e-07
+[frame_sync_impl.cc] 41 CFO estimate: -0.178662, STO estimate: 70.0305 snr est: 20.5074
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:040
+CRC valid!
+
+[1frame_sync_impl.cc] 41My STO: -1.85815e-06
+[frame_sync_impl.cc] 42 CFO estimate: -0.17405, STO estimate: 79.7676 snr est: 19.3403
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:041
+CRC valid!
+
+[1frame_sync_impl.cc] 42My STO: -1.51812e-06
+[frame_sync_impl.cc] 43 CFO estimate: -0.182742, STO estimate: 0.810129 snr est: 20.2684
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:042
+CRC valid!
+
+[1frame_sync_impl.cc] 43My STO: 1.4065e-06
+[frame_sync_impl.cc] 44 CFO estimate: -0.182625, STO estimate: 9.17571 snr est: 20.3877
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:043
+CRC valid!
+
+[1frame_sync_impl.cc] 44My STO: -2.96152e-06
+[frame_sync_impl.cc] 45 CFO estimate: -0.194932, STO estimate: 62.6297 snr est: 20.3353
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:044
+CRC valid!
+
+[1frame_sync_impl.cc] 45My STO: -7.36099e-07
+[frame_sync_impl.cc] 46 CFO estimate: -0.176573, STO estimate: 37.9079 snr est: 20.5615
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:045
+CRC valid!
+
+[1frame_sync_impl.cc] 46My STO: -2.28571e-06
+[frame_sync_impl.cc] 47 CFO estimate: -0.171148, STO estimate: 37.7142 snr est: 20.5349
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:046
+CRC valid!
+
+[1frame_sync_impl.cc] 47My STO: 3.83181e-06
+[frame_sync_impl.cc] 48 CFO estimate: -0.188853, STO estimate: 66.4789 snr est: 20.1941
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:047
+CRC valid!
+
+[1frame_sync_impl.cc] 48My STO: 1.86539e-06
+[frame_sync_impl.cc] 49 CFO estimate: -0.184312, STO estimate: 101.233 snr est: 19.1035
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:048
+CRC valid!
+
+[1frame_sync_impl.cc] 49My STO: -1.37649e-06
+[frame_sync_impl.cc] 50 CFO estimate: -0.184014, STO estimate: 15.8278 snr est: 19.7555
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:049
+CRC valid!
+
+[1frame_sync_impl.cc] 50My STO: -7.87085e-07
+[frame_sync_impl.cc] 51 CFO estimate: -0.177463, STO estimate: 103.902 snr est: 20.2117
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:050
+CRC valid!
+
+[1frame_sync_impl.cc] 51My STO: 2.27024e-06
+[frame_sync_impl.cc] 52 CFO estimate: -0.187069, STO estimate: 23.2837 snr est: 20.4667
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:051
+CRC valid!
+
+[1frame_sync_impl.cc] 52My STO: 3.00062e-06
+[frame_sync_impl.cc] 53 CFO estimate: -0.185362, STO estimate: 126.375 snr est: 19.4543
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:052
+CRC valid!
+
+[1frame_sync_impl.cc] 53My STO: -9.16975e-07
+[frame_sync_impl.cc] 54 CFO estimate: -0.179126, STO estimate: 66.8853 snr est: 20.4964
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:053
+CRC valid!
+
+[1frame_sync_impl.cc] 54My STO: -2.55438e-06
+[frame_sync_impl.cc] 55 CFO estimate: -0.197701, STO estimate: 113.681 snr est: 19.2938
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:054
+CRC valid!
+
+[1frame_sync_impl.cc] 55My STO: -3.62418e-06
+[frame_sync_impl.cc] 56 CFO estimate: -0.194641, STO estimate: 42.5469 snr est: 20.1142
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:055
+CRC valid!
+
+[1frame_sync_impl.cc] 56My STO: -2.33837e-07
+[frame_sync_impl.cc] 57 CFO estimate: -0.169425, STO estimate: 72.9707 snr est: 8.04356
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:056
+CRC valid!
+
+[1frame_sync_impl.cc] 57My STO: 4.38762e-07
+[frame_sync_impl.cc] 58 CFO estimate: -0.180105, STO estimate: 36.0547 snr est: 20.3836
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:057
+CRC valid!
+
+[1frame_sync_impl.cc] 58My STO: -7.45488e-08
+[frame_sync_impl.cc] 59 CFO estimate: -0.185321, STO estimate: 13.9906 snr est: 20.4043
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:058
+CRC valid!
+
+[1frame_sync_impl.cc] 59My STO: -1.84316e-07
+[frame_sync_impl.cc] 60 CFO estimate: -0.178788, STO estimate: 123.977 snr est: 20.4776
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:059
+CRC valid!
+
+[1frame_sync_impl.cc] 60My STO: -2.144e-07
+[frame_sync_impl.cc] 61 CFO estimate: -0.18287, STO estimate: 42.9731 snr est: 20.6143
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:060
+CRC valid!
+
+[1frame_sync_impl.cc] 61My STO: 2.4247e-06
+[frame_sync_impl.cc] 62 CFO estimate: -0.18547, STO estimate: 69.303 snr est: 19.5949
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:061
+CRC valid!
+
+[1frame_sync_impl.cc] 62My STO: 3.1304e-06
+[frame_sync_impl.cc] 63 CFO estimate: -0.182397, STO estimate: 0.391194 snr est: 20.1918
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:062
+CRC valid!
+
+[1frame_sync_impl.cc] 63My STO: 3.74108e-06
+[frame_sync_impl.cc] 64 CFO estimate: -0.190675, STO estimate: 126.468 snr est: 19.7026
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:063
+CRC valid!
+
+[1frame_sync_impl.cc] 64My STO: -2.5222e-06
+[frame_sync_impl.cc] 65 CFO estimate: -0.173953, STO estimate: 81.6846 snr est: 20.411
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:064
+CRC valid!
+
+[1frame_sync_impl.cc] 65My STO: 2.50274e-06
+[frame_sync_impl.cc] 66 CFO estimate: -0.189035, STO estimate: 92.3127 snr est: 20.1588
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:065
+CRC valid!
+
+[1frame_sync_impl.cc] 66My STO: -2.39383e-06
+[frame_sync_impl.cc] 67 CFO estimate: -0.169696, STO estimate: 92.7007 snr est: 14.1189
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:066
+CRC valid!
+
+[1frame_sync_impl.cc] 67My STO: -2.06048e-06
+[frame_sync_impl.cc] 68 CFO estimate: -0.189209, STO estimate: 24.7423 snr est: 20.1609
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:067
+CRC valid!
+
+[1frame_sync_impl.cc] 68My STO: 1.63209e-07
+[frame_sync_impl.cc] 69 CFO estimate: -0.183477, STO estimate: 82.0203 snr est: 20.3017
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:068
+CRC valid!
+
+[1frame_sync_impl.cc] 69My STO: -1.39829e-06
+[frame_sync_impl.cc] 70 CFO estimate: -0.17458, STO estimate: 57.8251 snr est: 20.3249
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:069
+CRC valid!
+
+[1frame_sync_impl.cc] 70My STO: -4.33261e-08
+[frame_sync_impl.cc] 71 CFO estimate: -0.182254, STO estimate: 51.9945 snr est: 20.4898
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:070
+CRC valid!
+
+[1frame_sync_impl.cc] 71My STO: 1.62538e-06
+[frame_sync_impl.cc] 72 CFO estimate: -0.185449, STO estimate: 71.2031 snr est: 19.6862
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:071
+CRC valid!
+
+[1frame_sync_impl.cc] 72My STO: 2.2612e-06
+[frame_sync_impl.cc] 73 CFO estimate: -0.188298, STO estimate: 125.283 snr est: 20.4281
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:072
+CRC valid!
+
+[1frame_sync_impl.cc] 73My STO: -2.13781e-06
+[frame_sync_impl.cc] 74 CFO estimate: -0.173206, STO estimate: 112.733 snr est: 20.0138
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:073
+CRC valid!
+
+[1frame_sync_impl.cc] 74My STO: -4.78323e-07
+[frame_sync_impl.cc] 75 CFO estimate: -0.17462, STO estimate: 65.9401 snr est: 19.457
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:074
+CRC valid!
+
+[1frame_sync_impl.cc] 75My STO: 1.13563e-07
+[frame_sync_impl.cc] 76 CFO estimate: -0.179474, STO estimate: 86.0141 snr est: 20.1677
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:075
+CRC valid!
+
+[1frame_sync_impl.cc] 76My STO: 3.88965e-06
+[frame_sync_impl.cc] 77 CFO estimate: -0.194616, STO estimate: 76.4861 snr est: 19.3099
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:076
+CRC valid!
+
+[1frame_sync_impl.cc] 77My STO: 2.72356e-07
+[frame_sync_impl.cc] 78 CFO estimate: -0.184087, STO estimate: 0.0339377 snr est: 20.0939
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:077
+CRC valid!
+
+[1frame_sync_impl.cc] 78My STO: 1.82075e-06
+[frame_sync_impl.cc] 79 CFO estimate: -0.18594, STO estimate: 51.2275 snr est: 19.2832
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:078
+CRC valid!
+
+[1frame_sync_impl.cc] 79My STO: -3.35507e-06
+[frame_sync_impl.cc] 80 CFO estimate: -0.195696, STO estimate: 59.5805 snr est: 20.1611
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:079
+CRC valid!
+
+[1frame_sync_impl.cc] 80My STO: -1.07477e-06
+[frame_sync_impl.cc] 81 CFO estimate: -0.176394, STO estimate: 48.8656 snr est: 19.8726
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:080
+CRC valid!
+
+[1frame_sync_impl.cc] 81My STO: -2.63984e-06
+[frame_sync_impl.cc] 82 CFO estimate: -0.170629, STO estimate: 122.67 snr est: 20.3028
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:081
+CRC valid!
+
+[1frame_sync_impl.cc] 82My STO: -2.1465e-06
+[frame_sync_impl.cc] 83 CFO estimate: -0.175873, STO estimate: 73.7316 snr est: 19.5567
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:082
+CRC valid!
+
+[1frame_sync_impl.cc] 83My STO: 3.01929e-06
+[frame_sync_impl.cc] 84 CFO estimate: -0.188245, STO estimate: 55.3773 snr est: 20.4362
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:083
+CRC valid!
+
+[1frame_sync_impl.cc] 84My STO: -3.31116e-06
+[frame_sync_impl.cc] 85 CFO estimate: -0.195249, STO estimate: 42.586 snr est: 20.3514
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:084
+CRC valid!
+
+[1frame_sync_impl.cc] 85My STO: -3.03297e-07
+[frame_sync_impl.cc] 86 CFO estimate: -0.18462, STO estimate: 22.962 snr est: 20.3565
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:085
+CRC valid!
+
+[1frame_sync_impl.cc] 86My STO: -1.31032e-06
+[frame_sync_impl.cc] 87 CFO estimate: -0.177499, STO estimate: 93.8361 snr est: 19.2038
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:086
+CRC valid!
+
+[1frame_sync_impl.cc] 87My STO: -2.45182e-06
+[frame_sync_impl.cc] 88 CFO estimate: -0.173867, STO estimate: 122.693 snr est: 20.4619
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:087
+CRC valid!
+
+[1frame_sync_impl.cc] 88My STO: 1.18679e-06
+[frame_sync_impl.cc] 89 CFO estimate: -0.180069, STO estimate: 9.14824 snr est: 19.8392
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:088
+CRC valid!
+
+[1frame_sync_impl.cc] 89My STO: -2.28344e-06
+[frame_sync_impl.cc] 90 CFO estimate: -0.175401, STO estimate: 9.71447 snr est: 20.5054
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:089
+CRC valid!
+
+[1frame_sync_impl.cc] 90My STO: 2.4207e-06
+[frame_sync_impl.cc] 91 CFO estimate: -0.182898, STO estimate: 61.3025 snr est: 19.0694
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:090
+CRC valid!
+
+[1frame_sync_impl.cc] 91My STO: -1.17604e-05
+[frame_sync_impl.cc] 92 CFO estimate: -1.19238, STO estimate: 3.52926 snr est: 20.3718
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:091
+CRC valid!
+
+[1frame_sync_impl.cc] 92My STO: -3.90261e-06
+[frame_sync_impl.cc] 93 CFO estimate: -0.19132, STO estimate: 60.5121 snr est: 20.393
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:092
+CRC valid!
+
+[1frame_sync_impl.cc] 93My STO: -1.18547e-05
+[frame_sync_impl.cc] 94 CFO estimate: -1.19308, STO estimate: 105.517 snr est: 14.4029
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:093
+CRC valid!
+
+[1frame_sync_impl.cc] 94My STO: -2.41571e-06
+[frame_sync_impl.cc] 95 CFO estimate: -0.186266, STO estimate: 21.6979 snr est: 20.5272
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:094
+CRC valid!
+
+[1frame_sync_impl.cc] 95My STO: 1.6369e-06
+[frame_sync_impl.cc] 96 CFO estimate: -0.183423, STO estimate: 110.205 snr est: 20.1736
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:095
+CRC valid!
+
+[1frame_sync_impl.cc] 96My STO: 4.01016e-07
+[frame_sync_impl.cc] 97 CFO estimate: -0.182056, STO estimate: 23.05 snr est: 20.2703
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:096
+CRC valid!
+
+[1frame_sync_impl.cc] 97My STO: 1.7944e-06
+[frame_sync_impl.cc] 98 CFO estimate: -0.181667, STO estimate: 59.2242 snr est: 20.2209
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:097
+CRC valid!
+
+[1frame_sync_impl.cc] 98My STO: 2.71057e-06
+[frame_sync_impl.cc] 99 CFO estimate: -0.186853, STO estimate: 4.33871 snr est: 19.2713
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:098
+CRC valid!
+
+[1frame_sync_impl.cc] 99My STO: 2.20213e-06
+[frame_sync_impl.cc] 100 CFO estimate: -0.184275, STO estimate: 65.2752 snr est: 20.3256
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:099
+CRC valid!
+
+[1frame_sync_impl.cc] 100My STO: -7.40492e-07
+[frame_sync_impl.cc] 101 CFO estimate: -0.176346, STO estimate: 43.9073 snr est: 20.2858
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:0100
+CRC valid!
+
+[1frame_sync_impl.cc] 101My STO: 1.49614e-06
+[frame_sync_impl.cc] 102 CFO estimate: -0.182052, STO estimate: 37.1869 snr est: 20.4327
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M 4MSPS:0101
+CRC valid!
+

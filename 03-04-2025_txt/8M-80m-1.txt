@@ -1,0 +1,1252 @@
+usrp_source :info: set_min_output_buffer on block 1 to 8320
+Press Enter to quit: 
+[1frame_sync_impl.cc] 0My STO: 2.22331e-06
+[frame_sync_impl.cc] 1 CFO estimate: -0.191848, STO estimate: 95.2778 snr est: 7.99283
+
+--------Header--------
+Payload length: 11
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:0
+CRC valid!
+
+[1frame_sync_impl.cc] 1My STO: -2.30676e-06
+[frame_sync_impl.cc] 2 CFO estimate: -0.165455, STO estimate: 79.7116 snr est: 2.76303
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:01
+CRC valid!
+
+[1frame_sync_impl.cc] 2My STO: -1.18559e-06
+[frame_sync_impl.cc] 3 CFO estimate: -0.175385, STO estimate: 37.8517 snr est: -4.43102
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:02
+CRC valid!
+
+[1frame_sync_impl.cc] 3My STO: 3.47626e-06
+[frame_sync_impl.cc] 4 CFO estimate: -0.189023, STO estimate: 30.4344 snr est: -0.274857
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:03
+CRC valid!
+
+[1frame_sync_impl.cc] 4My STO: 2.42948e-08
+[frame_sync_impl.cc] 5 CFO estimate: -0.179658, STO estimate: 60.0029 snr est: 1.65091
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:04
+CRC valid!
+
+[1frame_sync_impl.cc] 5My STO: -1.81822e-06
+[frame_sync_impl.cc] 6 CFO estimate: -0.169965, STO estimate: 61.7726 snr est: 0.666225
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:05
+CRC valid!
+
+usrp_source :error: In the last 40240 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 6My STO: -1.68983e-06
+[frame_sync_impl.cc] 7 CFO estimate: -0.176963, STO estimate: 114.789 snr est: -0.0992474
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:06
+CRC valid!
+
+[1frame_sync_impl.cc] 7My STO: 2.25769e-06
+[frame_sync_impl.cc] 8 CFO estimate: -0.191636, STO estimate: 64.2821 snr est: 2.27047
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:07
+CRC valid!
+
+[1frame_sync_impl.cc] 8My STO: -3.44896e-06
+[frame_sync_impl.cc] 9 CFO estimate: -0.192266, STO estimate: 64.5688 snr est: -0.0941976
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:08
+CRC valid!
+
+[1frame_sync_impl.cc] 9My STO: -3.749e-07
+[frame_sync_impl.cc] 10 CFO estimate: -0.195677, STO estimate: 0.953024 snr est: -0.340721
+
+--------Header--------
+Payload length: 12
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:09
+CRC valid!
+
+[1frame_sync_impl.cc] 10My STO: 3.0592e-06
+[frame_sync_impl.cc] 11 CFO estimate: -0.187889, STO estimate: 30.3823 snr est: 1.43448
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:010
+CRC valid!
+
+[1frame_sync_impl.cc] 11My STO: -1.30082e-07
+[frame_sync_impl.cc] 12 CFO estimate: -0.184148, STO estimate: 99.9836 snr est: 1.88589
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:011
+CRC valid!
+
+[1frame_sync_impl.cc] 12My STO: -9.30936e-07
+[frame_sync_impl.cc] 13 CFO estimate: -0.19442, STO estimate: 28.8835 snr est: 0.225516
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:012
+CRC valid!
+
+usrp_source :error: In the last 20634 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 13My STO: -7.64665e-05
+[1frame_sync_impl.cc] 13My STO: 2.49579e-07
+[frame_sync_impl.cc] 14 CFO estimate: -0.186372, STO estimate: 0.0310892 snr est: 5.70545
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:014
+CRC valid!
+
+usrp_source :error: In the last 6529 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 14My STO: 3.64123e-06
+[frame_sync_impl.cc] 15 CFO estimate: -0.192142, STO estimate: 96.455 snr est: 6.09285
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:015
+CRC valid!
+
+usrp_source :error: In the last 1466 ms, 1 overflows occurred.
+usrp_source :error: In the last 1371 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 15My STO: -1.88897e-06
+[frame_sync_impl.cc] 16 CFO estimate: -0.193475, STO estimate: 33.7638 snr est: -1.11098
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:016
+CRC valid!
+
+[1frame_sync_impl.cc] 16My STO: -1.19024e-05
+[frame_sync_impl.cc] 17 CFO estimate: -1.19134, STO estimate: 121.512 snr est: 3.46561
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:017
+CRC valid!
+
+usrp_source :error: In the last 5412 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 17My STO: 2.03646e-07
+[frame_sync_impl.cc] 18 CFO estimate: -0.181422, STO estimate: 0.0253504 snr est: 6.72664
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:018
+CRC valid!
+
+[1frame_sync_impl.cc] 18My STO: 3.92313e-06
+[frame_sync_impl.cc] 19 CFO estimate: -0.196684, STO estimate: 76.4903 snr est: 8.17902
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:019
+CRC valid!
+
+[1frame_sync_impl.cc] 19My STO: -1.21206e-07
+[frame_sync_impl.cc] 20 CFO estimate: -0.183255, STO estimate: 107.985 snr est: 6.54925
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:020
+CRC valid!
+
+[1frame_sync_impl.cc] 20My STO: 7.33381e-07
+[frame_sync_impl.cc] 21 CFO estimate: -0.178583, STO estimate: 61.0916 snr est: 1.73164
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:021
+CRC valid!
+
+[1frame_sync_impl.cc] 21My STO: -3.41399e-06
+[frame_sync_impl.cc] 22 CFO estimate: -0.190785, STO estimate: 56.5731 snr est: 2.21088
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:022
+CRC valid!
+
+usrp_source :error: In the last 13951 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 22My STO: 2.7941e-06
+[frame_sync_impl.cc] 23 CFO estimate: -0.197275, STO estimate: 34.3491 snr est: 2.64863
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:023
+CRC valid!
+
+usrp_source :error: In the last 3990 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 23My STO: 2.54744e-06
+[frame_sync_impl.cc] 24 CFO estimate: -0.180775, STO estimate: 2.31832 snr est: 3.79487
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:024
+CRC valid!
+
+[1frame_sync_impl.cc] 24My STO: -2.27067e-06
+[frame_sync_impl.cc] 25 CFO estimate: -0.185372, STO estimate: 24.7161 snr est: 0.918428
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:025
+CRC valid!
+
+[1frame_sync_impl.cc] 25My STO: -2.51894e-06
+[frame_sync_impl.cc] 26 CFO estimate: -0.169243, STO estimate: 74.685 snr est: 6.96787
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:026
+CRC valid!
+
+[1frame_sync_impl.cc] 26My STO: -1.36236e-06
+[frame_sync_impl.cc] 27 CFO estimate: -0.170693, STO estimate: 107.83 snr est: 3.29405
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:027
+CRC valid!
+
+[1frame_sync_impl.cc] 27My STO: 1.27039e-06
+[frame_sync_impl.cc] 28 CFO estimate: -0.180897, STO estimate: 14.1587 snr est: 3.14172
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:028
+CRC valid!
+
+[1frame_sync_impl.cc] 28My STO: 1.73654e-06
+[frame_sync_impl.cc] 29 CFO estimate: -0.177621, STO estimate: 34.217 snr est: 0.503705
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:029
+CRC valid!
+
+usrp_source :error: In the last 16361 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 29My STO: 2.65151e-06
+[frame_sync_impl.cc] 30 CFO estimate: -0.185854, STO estimate: 59.3313 snr est: 0.663872
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:030
+CRC valid!
+
+[1frame_sync_impl.cc] 30My STO: -2.22434e-06
+[frame_sync_impl.cc] 31 CFO estimate: -0.178212, STO estimate: 12.7219 snr est: 1.80886
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:031
+CRC valid!
+
+[1frame_sync_impl.cc] 31My STO: -1.2433e-06
+[frame_sync_impl.cc] 32 CFO estimate: -0.171279, STO estimate: 80.8445 snr est: 6.36107
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:032
+CRC valid!
+
+usrp_source :error: In the last 9323 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 32My STO: 1.1228e-06
+[frame_sync_impl.cc] 33 CFO estimate: -0.171537, STO estimate: 73.1403 snr est: -4.97935
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:033
+CRC valid!
+
+[1frame_sync_impl.cc] 33My STO: 9.2682e-07
+[frame_sync_impl.cc] 34 CFO estimate: -0.177558, STO estimate: 49.1157 snr est: 3.94263
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:034
+CRC valid!
+
+usrp_source :error: In the last 6454 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 34My STO: 2.3137e-06
+[frame_sync_impl.cc] 35 CFO estimate: -0.182506, STO estimate: 40.2891 snr est: 1.98791
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:035
+CRC valid!
+
+usrp_source :error: In the last 3523 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 35My STO: -1.67602e-06
+[frame_sync_impl.cc] 36 CFO estimate: -0.181166, STO estimate: 32.7904 snr est: -6.70483
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:036
+CRC valid!
+
+[1frame_sync_impl.cc] 36My STO: -6.16158e-07
+[frame_sync_impl.cc] 37 CFO estimate: -0.188342, STO estimate: 19.9229 snr est: -4.55533
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:037
+CRC valid!
+
+[1frame_sync_impl.cc] 37My STO: -3.02322e-06
+[frame_sync_impl.cc] 38 CFO estimate: -0.175741, STO estimate: 99.622 snr est: -1.10424
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:038
+CRC valid!
+
+[1frame_sync_impl.cc] 38My STO: -2.38988e-06
+[frame_sync_impl.cc] 39 CFO estimate: -0.167167, STO estimate: 123.701 snr est: -0.0828508
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:039
+CRC valid!
+
+[1frame_sync_impl.cc] 39My STO: -3.37609e-06
+[frame_sync_impl.cc] 40 CFO estimate: -0.195697, STO estimate: 93.5779 snr est: 2.49294
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:040
+CRC valid!
+
+[1frame_sync_impl.cc] 40My STO: -1.88682e-06
+[frame_sync_impl.cc] 41 CFO estimate: -0.164701, STO estimate: 76.7641 snr est: 5.15564
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:041
+CRC valid!
+
+[1frame_sync_impl.cc] 41My STO: -2.67055e-06
+[frame_sync_impl.cc] 42 CFO estimate: -0.183781, STO estimate: 35.6661 snr est: 4.73856
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:042
+CRC valid!
+
+[1frame_sync_impl.cc] 42My STO: 3.43416e-06
+[frame_sync_impl.cc] 43 CFO estimate: -0.176951, STO estimate: 28.4292 snr est: 3.78758
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:043
+CRC valid!
+
+[1frame_sync_impl.cc] 43My STO: 1.91884e-06
+[frame_sync_impl.cc] 44 CFO estimate: -0.177871, STO estimate: 76.2398 snr est: 2.44369
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:044
+CRC valid!
+
+[1frame_sync_impl.cc] 44My STO: 1.13177e-06
+[frame_sync_impl.cc] 45 CFO estimate: -0.176806, STO estimate: 80.1414 snr est: 0.341932
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:045
+CRC valid!
+
+[1frame_sync_impl.cc] 45My STO: -1.76793e-06
+[frame_sync_impl.cc] 46 CFO estimate: -0.177202, STO estimate: 27.7789 snr est: 4.90691
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:046
+CRC valid!
+
+usrp_source :error: In the last 33448 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 46My STO: 2.22341e-06
+[frame_sync_impl.cc] 47 CFO estimate: -0.178866, STO estimate: 28.2778 snr est: 5.08404
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:047
+CRC valid!
+
+[1frame_sync_impl.cc] 47My STO: 1.679e-06
+[frame_sync_impl.cc] 48 CFO estimate: -0.180488, STO estimate: 105.21 snr est: 4.53993
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:048
+CRC valid!
+
+usrp_source :error: In the last 5029 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 48My STO: 1.75239e-06
+[frame_sync_impl.cc] 49 CFO estimate: -0.179954, STO estimate: 11.2189 snr est: 0.995497
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:049
+CRC valid!
+
+[1frame_sync_impl.cc] 49My STO: 9.30987e-07
+[frame_sync_impl.cc] 50 CFO estimate: -0.18493, STO estimate: 88.1163 snr est: 0.591191
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:050
+CRC valid!
+
+[1frame_sync_impl.cc] 50My STO: -7.87342e-07
+[frame_sync_impl.cc] 51 CFO estimate: -0.175184, STO estimate: 4.90148 snr est: 4.6333
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:051
+CRC valid!
+
+[1frame_sync_impl.cc] 51My STO: -2.58671e-06
+[frame_sync_impl.cc] 52 CFO estimate: -0.168279, STO estimate: 72.6766 snr est: 6.81792
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:052
+CRC valid!
+
+[1frame_sync_impl.cc] 52My STO: 3.34212e-06
+[frame_sync_impl.cc] 53 CFO estimate: -0.187772, STO estimate: 92.4177 snr est: 8.30824
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:053
+CRC valid!
+
+[1frame_sync_impl.cc] 53My STO: -1.90891e-06
+[frame_sync_impl.cc] 54 CFO estimate: -0.166765, STO estimate: 106.761 snr est: 5.23654
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:054
+CRC valid!
+
+[1frame_sync_impl.cc] 54My STO: -2.74346e-06
+[frame_sync_impl.cc] 55 CFO estimate: -0.192477, STO estimate: 76.657 snr est: 6.25187
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:055
+CRC valid!
+
+usrp_source :error: In the last 21617 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 55My STO: 3.04213e-06
+[frame_sync_impl.cc] 56 CFO estimate: -0.184782, STO estimate: 64.3802 snr est: 2.40641
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:056
+CRC valid!
+
+[1frame_sync_impl.cc] 56My STO: 2.58956e-08
+[frame_sync_impl.cc] 57 CFO estimate: -0.161987, STO estimate: 23.0031 snr est: -8.35679
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:057
+CRC valid!
+
+[1frame_sync_impl.cc] 57My STO: 3.57994e-06
+[frame_sync_impl.cc] 58 CFO estimate: -0.185688, STO estimate: 85.4474 snr est: 5.94161
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:058
+CRC valid!
+
+usrp_source :error: In the last 9060 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 58My STO: 1.16778e-06
+[frame_sync_impl.cc] 59 CFO estimate: -0.177555, STO estimate: 70.1459 snr est: 7.96007
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+usrp_source :error: In the last 1248 ms, 1 overflows occurred.
+rx msg: 80M 8LS
+<
+[31mCRC invalid[0m
+
+[1frame_sync_impl.cc] 59My STO: 1.1388e-07
+[frame_sync_impl.cc] 60 CFO estimate: -0.176581, STO estimate: 100.014 snr est: 9.03914
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:060
+CRC valid!
+
+[1frame_sync_impl.cc] 60My STO: 2.20776e-06
+[frame_sync_impl.cc] 61 CFO estimate: -0.186697, STO estimate: 89.2759 snr est: 6.39343
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:061
+CRC valid!
+
+usrp_source :error: In the last 6988 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 61My STO: 2.60101e-06
+[frame_sync_impl.cc] 62 CFO estimate: -0.183257, STO estimate: 21.325 snr est: 7.19788
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:062
+CRC valid!
+
+[1frame_sync_impl.cc] 62My STO: 2.142e-06
+[frame_sync_impl.cc] 63 CFO estimate: -0.185938, STO estimate: 95.2676 snr est: 6.17145
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:063
+CRC valid!
+
+usrp_source :error: In the last 7172 ms, 2 overflows occurred.
+[1frame_sync_impl.cc] 63My STO: 1.92319e-06
+[frame_sync_impl.cc] 64 CFO estimate: -0.184794, STO estimate: 19.2403 snr est: 0.807126
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:064
+CRC valid!
+
+[1frame_sync_impl.cc] 64My STO: -3.07722e-07
+[frame_sync_impl.cc] 65 CFO estimate: -0.184033, STO estimate: 17.9614 snr est: 4.56351
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:065
+CRC valid!
+
+[1frame_sync_impl.cc] 65My STO: -2.00198e-06
+[frame_sync_impl.cc] 66 CFO estimate: -0.186994, STO estimate: 27.7496 snr est: 5.95285
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:066
+CRC valid!
+
+[1frame_sync_impl.cc] 66My STO: -2.39782e-06
+[frame_sync_impl.cc] 67 CFO estimate: -0.173602, STO estimate: 96.7002 snr est: -3.85207
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:067
+CRC valid!
+
+[1frame_sync_impl.cc] 67My STO: 2.45565e-07
+[frame_sync_impl.cc] 68 CFO estimate: -0.186153, STO estimate: 40.0306 snr est: -0.18408
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:068
+CRC valid!
+
+[1frame_sync_impl.cc] 68My STO: 3.63305e-06
+[frame_sync_impl.cc] 69 CFO estimate: -0.184206, STO estimate: 95.454 snr est: 1.46324
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:069
+CRC valid!
+
+[1frame_sync_impl.cc] 69My STO: 1.60503e-06
+[frame_sync_impl.cc] 70 CFO estimate: -0.177983, STO estimate: 77.2005 snr est: 4.51455
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:070
+CRC valid!
+
+[1frame_sync_impl.cc] 70My STO: -2.33931e-06
+[frame_sync_impl.cc] 71 CFO estimate: -0.168549, STO estimate: 52.7075 snr est: 0.719336
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:071
+CRC valid!
+
+[1frame_sync_impl.cc] 71My STO: -2.5082e-06
+[frame_sync_impl.cc] 72 CFO estimate: -0.192972, STO estimate: 83.6864 snr est: 0.890092
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:072
+CRC valid!
+
+[1frame_sync_impl.cc] 72My STO: -2.53053e-06
+[frame_sync_impl.cc] 73 CFO estimate: -0.188173, STO estimate: 38.6836 snr est: 1.44693
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:073
+CRC valid!
+
+[1frame_sync_impl.cc] 73My STO: 2.82748e-06
+[frame_sync_impl.cc] 74 CFO estimate: -0.18641, STO estimate: 20.3533 snr est: 1.1674
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:074
+CRC valid!
+
+[1frame_sync_impl.cc] 74My STO: 2.47056e-06
+[frame_sync_impl.cc] 75 CFO estimate: -0.164765, STO estimate: 6.30872 snr est: -9.31799
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:075
+CRC valid!
+
+[1frame_sync_impl.cc] 75My STO: -2.20492e-06
+[frame_sync_impl.cc] 76 CFO estimate: -0.209003, STO estimate: 34.7243 snr est: -7.66719
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSXS:076
+[31mCRC invalid[0m
+
+[1frame_sync_impl.cc] 76My STO: 1.96772e-08
+[frame_sync_impl.cc] 77 CFO estimate: -0.171466, STO estimate: 98.0024 snr est: 0.164506
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:077
+CRC valid!
+
+[1frame_sync_impl.cc] 77My STO: 9.49203e-07
+[frame_sync_impl.cc] 78 CFO estimate: -0.183983, STO estimate: 16.1185 snr est: 2.81549
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:079
+CRC valid!
+
+[1frame_sync_impl.cc] 78My STO: 2.80698e-06
+[frame_sync_impl.cc] 79 CFO estimate: -0.185218, STO estimate: 87.3508 snr est: -2.91364
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:080
+CRC valid!
+
+[1frame_sync_impl.cc] 79My STO: -2.82518e-06
+[frame_sync_impl.cc] 80 CFO estimate: -0.187692, STO estimate: 73.6467 snr est: 2.01361
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:081
+CRC valid!
+
+[1frame_sync_impl.cc] 80My STO: -2.60375e-06
+[frame_sync_impl.cc] 81 CFO estimate: -0.184455, STO estimate: 12.6744 snr est: 5.30704
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:082
+CRC valid!
+
+[1frame_sync_impl.cc] 81My STO: -1.42901e-06
+[frame_sync_impl.cc] 82 CFO estimate: -0.180511, STO estimate: 19.8213 snr est: 2.5525
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:083
+CRC valid!
+
+[1frame_sync_impl.cc] 82My STO: -1.92767e-06
+[frame_sync_impl.cc] 83 CFO estimate: -0.166816, STO estimate: 88.7589 snr est: 2.91725
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:084
+CRC valid!
+
+[1frame_sync_impl.cc] 83My STO: -3.91224e-06
+[frame_sync_impl.cc] 84 CFO estimate: -0.191424, STO estimate: 88.5109 snr est: -2.83726
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:085
+CRC valid!
+
+usrp_source :error: In the last 64038 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 84My STO: 3.2456e-07
+[frame_sync_impl.cc] 85 CFO estimate: -0.184412, STO estimate: 20.0405 snr est: -2.65005
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:086
+CRC valid!
+
+[1frame_sync_impl.cc] 85My STO: 2.65275e-08
+[frame_sync_impl.cc] 86 CFO estimate: -0.186175, STO estimate: 41.0032 snr est: -1.3996
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:087
+CRC valid!
+
+usrp_source :error: In the last 6848 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 86My STO: 2.61758e-06
+[frame_sync_impl.cc] 87 CFO estimate: -0.199043, STO estimate: 114.327 snr est: -2.98477
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:088
+CRC valid!
+
+[1frame_sync_impl.cc] 87My STO: 2.70694e-06
+[frame_sync_impl.cc] 88 CFO estimate: -0.179898, STO estimate: 18.3383 snr est: 1.00549
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:089
+CRC valid!
+
+[1frame_sync_impl.cc] 88My STO: 2.64938e-06
+[frame_sync_impl.cc] 89 CFO estimate: -0.179648, STO estimate: 99.3311 snr est: -4.34651
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:090
+CRC valid!
+
+usrp_source :error: In the last 9069 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 89My STO: -2.26188e-06
+[frame_sync_impl.cc] 90 CFO estimate: -0.167085, STO estimate: 71.7172 snr est: -4.05793
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:091
+CRC valid!
+
+[1frame_sync_impl.cc] 90My STO: -2.88804e-06
+[frame_sync_impl.cc] 91 CFO estimate: -0.194643, STO estimate: 114.639 snr est: 5.86066
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:092
+CRC valid!
+
+[1frame_sync_impl.cc] 91My STO: 2.72025e-07
+[frame_sync_impl.cc] 92 CFO estimate: -0.176455, STO estimate: 96.0339 snr est: -3.32757
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:093
+CRC valid!
+
+usrp_source :error: In the last 9627 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 92My STO: 3.59093e-06
+[frame_sync_impl.cc] 93 CFO estimate: -0.184712, STO estimate: 103.449 snr est: 0.203154
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:094
+CRC valid!
+
+[1frame_sync_impl.cc] 93My STO: -8.83897e-07
+[frame_sync_impl.cc] 94 CFO estimate: -0.182225, STO estimate: 12.8894 snr est: 5.09973
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:095
+CRC valid!
+
+[1frame_sync_impl.cc] 94My STO: 3.13695e-06
+[frame_sync_impl.cc] 95 CFO estimate: -0.181492, STO estimate: 54.392 snr est: 4.49549
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:096
+CRC valid!
+
+[1frame_sync_impl.cc] 95My STO: 1.75666e-06
+[frame_sync_impl.cc] 96 CFO estimate: -0.180814, STO estimate: 69.2195 snr est: 7.09387
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:097
+CRC valid!
+
+[1frame_sync_impl.cc] 96My STO: 1.56453e-06
+[frame_sync_impl.cc] 97 CFO estimate: -0.186059, STO estimate: 32.1955 snr est: -0.658616
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:098
+CRC valid!
+
+[1frame_sync_impl.cc] 97My STO: -1.15121e-05
+[frame_sync_impl.cc] 98 CFO estimate: -1.17854, STO estimate: 18.5603 snr est: 3.54597
+
+--------Header--------
+Payload length: 13
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:099
+CRC valid!
+
+[1frame_sync_impl.cc] 98My STO: -1.43601e-06
+[frame_sync_impl.cc] 99 CFO estimate: -0.167761, STO estimate: 57.8204 snr est: 7.6
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:0100
+CRC valid!
+
+usrp_source :error: In the last 19864 ms, 1 overflows occurred.
+[1frame_sync_impl.cc] 99My STO: -2.22699e-07
+[frame_sync_impl.cc] 100 CFO estimate: -0.18106, STO estimate: 33.9721 snr est: 1.68941
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:0101
+CRC valid!
+
+[1frame_sync_impl.cc] 100My STO: -1.14636e-06
+[frame_sync_impl.cc] 101 CFO estimate: -0.171882, STO estimate: 101.857 snr est: 3.15491
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:0102
+CRC valid!
+
+[1frame_sync_impl.cc] 101My STO: -1.49355e-06
+[frame_sync_impl.cc] 102 CFO estimate: -0.181467, STO estimate: 29.8132 snr est: 1.87436
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 80M 8MSPS:0103
+CRC valid!
+

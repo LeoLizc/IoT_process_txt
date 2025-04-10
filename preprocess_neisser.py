@@ -10,26 +10,22 @@ from time import sleep
 # Regex de las Líneas
 numbers = r"[+-]?(?:(?:\d+(?:\.\d*)?)|\.\d+)(?:[eE][+-]?\d+)?"
 
-MY_STO = re.compile(f"\\[1frame_sync_impl.cc\\] \\d+My STO: ({numbers})") #?
-DEF_LOG = re.compile(f"\\[frame_sync_impl.cc\\] \\d+ CFO estimate: ({numbers}), STO estimate: ({numbers}) snr est: ({numbers})") #?
-MESSAGE = re.compile(f"rx msg: (.+:(\\d+))?") #?
-CRC = re.compile(f"CRC (invalid|valid)")
-OVERFLOW = re.compile(f"(\\d+) overflows") #?
+SIZE = re.compile(f"Packet Size: ((\\d+) bytes)") #?
+MESSAGE = re.compile(f"Received string: (.+:(\\d+))") #?
+DATA = re.compile(f"RSSI: ({numbers}) dBm, SNR: ({numbers}) dB") #?
+
 
 # Clase de lineas csv dataclass
 @dataclass
 class Row:
     mensaje: str            # *
-    numero: str             # *
-    my_sto: str             # *
-    sto: str                # *
-    cfo: str                # *
+    numero: int             # *
+    rssi: str                # *
     snr: str                # *
-    crc_error: bool         # *
-    overflow_count: int     # *
+    size: str     # *
 
 # Expresión regular para filtrar los archivos
-FILE_REGEX = re.compile(r'^(\d+[mk])-(\d+m)-(\d+)[.]txt$', re.IGNORECASE)
+FILE_REGEX = re.compile(r'^(\d+[m])(\d+msps)[.]txt$', re.IGNORECASE)
 
 def set_header(outfile: TextIOWrapper, separator: str):
     """
@@ -43,7 +39,7 @@ def set_header(outfile: TextIOWrapper, separator: str):
       None
     """
     # Escribiendo encabezado en el archivo de salida
-    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum\n')
+    outfile.write(f'mensaje{separator}numero{separator}rssi (dBm){separator}snr (dB){separator}size (bytes)\n')
 
 def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: TextIOWrapper| None, separator: str, freq, distance, version):
     """
@@ -65,49 +61,34 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: Text
     # Función para escribir en el archivo de salida
     def write_row(row: Row):
         # Convertir el dataclass a una cadena CSV
-        values = [f'"{row.mensaje}"', str(row.numero), row.my_sto, row.sto, row.cfo, row.snr, str(int(row.crc_error)), str(row.overflow_count)]
+        values = [f'"{row.mensaje}"', str(row.numero), row.rssi, row.snr, row.size]
         outfile.write(separator.join(values) + '\n')
         if merged_file:
             # Escribir en el archivo combinado
             merged_file.write(separator.join(values) + '\n')
 
         row.mensaje = ""
-        row.numero = -1
-        row.my_sto = ""
-        row.sto = ""
-        row.cfo = ""
+        row.numero = 0
+        row.rssi = ""
         row.snr = ""
-        row.crc_error = False
-        row.overflow_count = 0
+        row.size = ""
 
     # Aquí se implementará el pre-procesado deseado.
-    row = Row(mensaje="", numero=0, my_sto="", sto="", cfo="", snr="", crc_error=False, overflow_count=0)
+    row = Row(mensaje="", numero="", rssi="", snr="", size="")
 
     for line in infile:
-        line = line.strip()
-        # Buscar coincidencias en la línea actual
-        if match := OVERFLOW.search(line):
-            row.overflow_count += int(match.group(1))
-        
+        if match := SIZE.search(line):
+            row.size = match.group(2)
         elif match := MESSAGE.search(line):
-            row.mensaje = match.group(1) if match.group(1) else line
-            row.numero = int(match.group(2)) if match.group(2) else -1
-
-        elif match := MY_STO.search(line):
-            row.my_sto = match.group(1)
-
-        elif match := DEF_LOG.search(line):
-            row.cfo = match.group(1)
-            row.sto = match.group(2)
-            row.snr = match.group(3)
-        
-        elif match := CRC.search(line): # final
-            row.crc_error = match.group(1) == "invalid"
-            # Escribir la fila en el archivo de salida
+            row.mensaje = match.group(1)
+            row.numero = int(match.group(2))
+        elif match := DATA.search(line):
+            row.rssi = match.group(1)
+            row.snr = match.group(2)
             write_row(row)
         else:
-            # Si no hay coincidencias, se puede decidir qué hacer (opcional)
-            pass
+            # Si no hay coincidencias, continuar con la siguiente línea
+            continue
 
 def gen_file_name(freq: str, distance: str, version: str, str_format: str):
     """
@@ -142,7 +123,7 @@ def process_files(input_folder: str, output_folder: str, merge: bool, slow_down:
     for filename in tqdm(files, desc="Procesando archivos"):
         match = FILE_REGEX.match(filename)
         if match:
-            freq, distance, version = match.groups()
+            freq, distance = match.groups()
             input_file_path = os.path.join(input_folder, filename)
             output_file_path = os.path.join(output_folder, filename.replace('.txt', '.csv'))
             if merge:
@@ -157,9 +138,9 @@ def process_files(input_folder: str, output_folder: str, merge: bool, slow_down:
                         # Write header if file is new
                         if not file_exists:
                             set_header(merged_file, separator)
-                        pre_process(infile, outfile, merged_file, separator, freq, distance, version)
+                        pre_process(infile, outfile, merged_file, separator, freq, distance, None)
                 else:
-                    pre_process(infile, outfile, None, separator, freq, distance, version)
+                    pre_process(infile, outfile, None, separator, freq, distance, None)
                 
             # Opcional: mensaje de confirmación por archivo
             # print(f"Procesado: {filename}")

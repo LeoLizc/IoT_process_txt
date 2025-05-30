@@ -33,6 +33,8 @@ class Row:
 
 # Expresión regular para filtrar los archivos
 FILE_REGEX = re.compile(r'^(\d+[mk])-(\d+m)-(\d+)[.]txt$', re.IGNORECASE)
+FILE_REGEX_EXTENDED = re.compile(r'^(\d+[m])-(\d+MSPs)-(\d+)[.]txt$', re.IGNORECASE)
+FILE_REGEX_EXTENDED2 = re.compile(r'^(\d+[m])-(\d+MSPs)-(\d+sf)-(\d+khz)-(\d+)[.]txt$', re.IGNORECASE)
 
 def set_header(outfile: TextIOWrapper, separator: str):
     """
@@ -145,13 +147,28 @@ def process_files(input_folder: str, output_folder: str, merge: bool, slow_down:
             os.remove(os.path.join(merge_folder, file))
     
     # Listar los archivos que cumplen con la regex en la carpeta de entrada
-    files = [f for f in os.listdir(input_folder) if FILE_REGEX.match(f)]
+    files = [
+        f for f in os.listdir(input_folder) if 
+        FILE_REGEX.match(f)
+        or FILE_REGEX_EXTENDED.match(f)
+        or FILE_REGEX_EXTENDED2.match(f)
+        ]
     
     # Barra de carga para el procesamiento de archivos
     for filename in tqdm(files, desc="Procesando archivos"):
-        match = FILE_REGEX.match(filename)
-        if match:
+        # match = FILE_REGEX.match(filename) or \
+        #        FILE_REGEX_EXTENDED.match(filename) or \
+        #         FILE_REGEX_EXTENDED2.match(filename)
+        if match := FILE_REGEX.match(filename): 
             freq, distance, version = match.groups()
+        elif match := FILE_REGEX_EXTENDED.match(filename):
+            distance, freq, version = match.groups()
+        elif match := FILE_REGEX_EXTENDED2.match(filename):
+            distance, freq, _, __, version = match.groups()
+        else:
+            continue
+        if match:
+            # freq, distance, version = match.groups()
             input_file_path = os.path.join(input_folder, filename)
             output_file_path = os.path.join(output_folder, filename.replace('.txt', '.csv'))
             if merge:

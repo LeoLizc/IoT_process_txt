@@ -2,3 +2,11 @@ colorama==0.4.6
 setuptools==75.8.0
 tqdm==4.67.1
 wheel==0.45.1
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pingouin
+scikit-learn

@@ -11,7 +11,7 @@ from time import sleep
 numbers = r"[+-]?(?:(?:\d+(?:\.\d*)?)|\.\d+)(?:[eE][+-]?\d+)?"
 
 MY_STO = re.compile(f"\\[1frame_sync_impl.cc\\] \\d+My STO: ({numbers})") #?
-DEF_LOG = re.compile(f"\\[frame_sync_impl.cc\\] \\d+ CFO estimate: ({numbers}), STO estimate: ({numbers}), snr est: ({numbers}), k_hat: ({numbers}), k_hat2: ({numbers}), espacios: ({numbers})") #?
+DEF_LOG = re.compile(f"\\[frame_sync_impl.cc\\] \\d+ CFO estimate: ({numbers}), STO estimate: ({numbers}), snr est: ({numbers}), k_hat: ({numbers}), k_hat2: ({numbers}), espacios: ({numbers}), CFO_INT2: ({numbers}), STO estimate 2: ({numbers})") #?
 MESSAGE = re.compile(f"rx msg: (.+:(\\d+))?") #?
 CRC = re.compile(f"CRC (invalid|valid)")
 OVERFLOW = re.compile(f"(\\d+) overflows") #?
@@ -30,6 +30,8 @@ class Row:
     k_hat: str = ""         # Opcional, no siempre presente
     k_hat2: str = ""        # Opcional, no siempre presente
     espacios: str = ""       # Opcional, no siempre presente
+    cfo_int2: str = ""  # Opcional, no siempre presente
+    sto_estimate2: str = ""  # Opcional, no siempre presente
 
 # Expresión regular para filtrar los archivos
 FILE_REGEX = re.compile(r'^(\d+[mk])-(\d+m)-(\d+)[.]txt$', re.IGNORECASE)
@@ -48,7 +50,7 @@ def set_header(outfile: TextIOWrapper, separator: str):
       None
     """
     # Escribiendo encabezado en el archivo de salida
-    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum{separator}k_hat{separator}k_hat2{separator}espacios\n')
+    outfile.write(f'mensaje{separator}numero{separator}my_sto{separator}sto{separator}cfo{separator}snr{separator}crc_error{separator}previous_overflow_sum{separator}k_hat{separator}k_hat2{separator}espacios{separator}cfo_int2{separator}sto_estimate2\n')
 
 def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: TextIOWrapper| None, separator: str, freq, distance, version):
     """
@@ -70,7 +72,7 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: Text
     # Función para escribir en el archivo de salida
     def write_row(row: Row):
         # Convertir el dataclass a una cadena CSV
-        values = [f'"{row.mensaje}"', str(row.numero), row.my_sto, row.sto, row.cfo, row.snr, str(int(row.crc_error)), str(row.overflow_count), row.k_hat, row.k_hat2, row.espacios]
+        values = [f'"{row.mensaje}"', str(row.numero), row.my_sto, row.sto, row.cfo, row.snr, str(int(row.crc_error)), str(row.overflow_count), row.k_hat, row.k_hat2, row.espacios, row.cfo_int2, row.sto_estimate2]
         outfile.write(separator.join(values) + '\n')
         if merged_file:
             # Escribir en el archivo combinado
@@ -87,9 +89,11 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: Text
         row.k_hat = ""
         row.k_hat2 = ""
         row.espacios = ""
+        row.cfo_int2 = ""
+        row.sto_estimate2 = ""
 
     # Aquí se implementará el pre-procesado deseado.
-    row = Row(mensaje="", numero=0, my_sto="", sto="", cfo="", snr="", crc_error=False, overflow_count=0, k_hat="", k_hat2="", espacios="")
+    row = Row(mensaje="", numero=0, my_sto="", sto="", cfo="", snr="", crc_error=False, overflow_count=0, k_hat="", k_hat2="", espacios="", cfo_int2="", sto_estimate2="")
 
     for line in infile:
         line = line.strip()
@@ -111,6 +115,8 @@ def pre_process(infile: TextIOWrapper, outfile: TextIOWrapper, merged_file: Text
             row.k_hat = match.group(4)
             row.k_hat2 = match.group(5)
             row.espacios = match.group(6)
+            row.cfo_int2 = match.group(7)
+            row.sto_estimate2 = match.group(8)
         
         elif match := CRC.search(line): # final
             row.crc_error = match.group(1) == "invalid"

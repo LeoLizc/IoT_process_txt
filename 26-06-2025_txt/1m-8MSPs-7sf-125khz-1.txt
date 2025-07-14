@@ -1,0 +1,1189 @@
+usrp_source :info: set_min_output_buffer on block 1 to 8320
+Press Enter to quit: usrp_source :error: In the last 4524 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 1 CFO estimate: -1.19688, STO estimate: 2.61787, snr est: 11.2287, k_hat: 2, k_hat2: 4703, espacios: 73, CFO_INT2: 2110, STO estimate 2: 2593
+
+--------Header--------
+Payload length: 14
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0
+CRC valid!
+
+[frame_sync_impl.cc] 2 CFO estimate: -0.187839, STO estimate: 26.8486, snr est: 11.3379, k_hat: 27, k_hat2: 4137, espacios: 64, CFO_INT2: 2124, STO estimate 2: 2013
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:01
+CRC valid!
+
+[frame_sync_impl.cc] 3 CFO estimate: -0.203913, STO estimate: 93.6198, snr est: 10.6547, k_hat: 94, k_hat2: 1996, espacios: 31, CFO_INT2: 2115, STO estimate 2: -119
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:02
+CRC valid!
+
+[frame_sync_impl.cc] 4 CFO estimate: -0.200741, STO estimate: 96.1171, snr est: 9.85814, k_hat: 96, k_hat2: 1868, espacios: 29, CFO_INT2: 2114, STO estimate 2: -246
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:03
+CRC valid!
+
+[frame_sync_impl.cc] 5 CFO estimate: -0.200539, STO estimate: 67.0495, snr est: 10.4427, k_hat: 67, k_hat2: 2041, espacios: 31, CFO_INT2: 2119, STO estimate 2: -78
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:04
+CRC valid!
+
+[frame_sync_impl.cc] 6 CFO estimate: -0.195152, STO estimate: 72.8528, snr est: 11.722, k_hat: 73, k_hat2: 3865, espacios: 60, CFO_INT2: 2126, STO estimate 2: 1739
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:05
+CRC valid!
+
+[frame_sync_impl.cc] 7 CFO estimate: -0.204377, STO estimate: 76.1655, snr est: 13.7268, k_hat: 76, k_hat2: 4165, espacios: 65, CFO_INT2: 2110, STO estimate 2: 2055
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:06
+CRC valid!
+
+usrp_source :error: In the last 22512 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 8 CFO estimate: -1.19789, STO estimate: 12.5392, snr est: 12.1523, k_hat: 12, k_hat2: 6309, espacios: 98, CFO_INT2: 2111, STO estimate 2: 4198
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:07
+CRC valid!
+
+[frame_sync_impl.cc] 9 CFO estimate: -0.19988, STO estimate: 27.5196, snr est: 12.7944, k_hat: 28, k_hat2: 4121, espacios: 64, CFO_INT2: 2120, STO estimate 2: 2001
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:08
+CRC valid!
+
+usrp_source :error: In the last 5493 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 10 CFO estimate: -0.20263, STO estimate: -0.0446822, snr est: 10.2864, k_hat: 0, k_hat2: 5535, espacios: 86, CFO_INT2: 2121, STO estimate 2: 3414
+
+--------Header--------
+Payload length: 15
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:09
+CRC valid!
+
+[frame_sync_impl.cc] 11 CFO estimate: -0.191063, STO estimate: 39.6972, snr est: 10.4615, k_hat: 40, k_hat2: 7079, espacios: 110, CFO_INT2: 2124, STO estimate 2: 4955
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:010
+CRC valid!
+
+usrp_source :error: In the last 6113 ms, 1 overflows occurred.
+usrp_source :error: In the last 907 ms, 1 overflows occurred.
+usrp_source :error: In the last 777 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 12 CFO estimate: -0.19208, STO estimate: 93.8495, snr est: 11.9815, k_hat: 94, k_hat2: 4203, espacios: 65, CFO_INT2: 2119, STO estimate 2: 2084
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:011
+CRC valid!
+
+[frame_sync_impl.cc] 13 CFO estimate: -1.2046, STO estimate: 8.61517, snr est: 12.3764, k_hat: 8, k_hat2: 4750, espacios: 74, CFO_INT2: 2110, STO estimate 2: 2640
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:012
+CRC valid!
+
+[frame_sync_impl.cc] 14 CFO estimate: -0.202144, STO estimate: 30.4307, snr est: 10.7271, k_hat: 30, k_hat2: 4117, espacios: 64, CFO_INT2: 2110, STO estimate 2: 2007
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:013
+CRC valid!
+
+[frame_sync_impl.cc] 15 CFO estimate: -0.190738, STO estimate: 76.922, snr est: 11.5963, k_hat: 77, k_hat2: 7874, espacios: 123, CFO_INT2: 2116, STO estimate 2: 5758
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:014
+CRC valid!
+
+[frame_sync_impl.cc] 16 CFO estimate: -0.189499, STO estimate: 120.954, snr est: 12.6335, k_hat: 121, k_hat2: 4061, espacios: 63, CFO_INT2: 2118, STO estimate 2: 1943
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:015
+CRC valid!
+
+[frame_sync_impl.cc] 17 CFO estimate: -0.206199, STO estimate: 29.4596, snr est: 13.3621, k_hat: 29, k_hat2: 7388, espacios: 115, CFO_INT2: 2111, STO estimate 2: 5277
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:016
+CRC valid!
+
+[frame_sync_impl.cc] 18 CFO estimate: -0.197446, STO estimate: -0.135714, snr est: 13.3364, k_hat: 0, k_hat2: 3592, espacios: 56, CFO_INT2: 2119, STO estimate 2: 1473
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:017
+CRC valid!
+
+usrp_source :error: In the last 19409 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 19 CFO estimate: -1.21053, STO estimate: 114.595, snr est: 10.3424, k_hat: 114, k_hat2: 3047, espacios: 47, CFO_INT2: 2111, STO estimate 2: 936
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:018
+CRC valid!
+
+[frame_sync_impl.cc] 20 CFO estimate: -0.206222, STO estimate: 78.6282, snr est: 9.97198, k_hat: 79, k_hat2: 1377, espacios: 21, CFO_INT2: 2124, STO estimate 2: -747
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:019
+CRC valid!
+
+[frame_sync_impl.cc] 21 CFO estimate: -0.199235, STO estimate: 94.5271, snr est: 10.9101, k_hat: 95, k_hat2: 4192, espacios: 65, CFO_INT2: 2120, STO estimate 2: 2072
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:020
+CRC valid!
+
+[frame_sync_impl.cc] 22 CFO estimate: -0.205573, STO estimate: 52.4868, snr est: 11.2085, k_hat: 52, k_hat2: 7820, espacios: 122, CFO_INT2: 2043, STO estimate 2: 5777
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:021
+CRC valid!
+
+[frame_sync_impl.cc] 23 CFO estimate: -0.203616, STO estimate: 104.084, snr est: 10.2763, k_hat: 104, k_hat2: 4360, espacios: 68, CFO_INT2: 2110, STO estimate 2: 2250
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:022
+CRC valid!
+
+usrp_source :error: In the last 14853 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 24 CFO estimate: -0.195347, STO estimate: 101.728, snr est: 11.5086, k_hat: 102, k_hat2: 4205, espacios: 65, CFO_INT2: 2124, STO estimate 2: 2081
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:023
+CRC valid!
+
+[frame_sync_impl.cc] 25 CFO estimate: -0.19049, STO estimate: 6.70039, snr est: 12.0658, k_hat: 7, k_hat2: 4356, espacios: 68, CFO_INT2: 2118, STO estimate 2: 2238
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:024
+CRC valid!
+
+usrp_source :error: In the last 4824 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 26 CFO estimate: -0.19219, STO estimate: 8.79584, snr est: 10.4427, k_hat: 9, k_hat2: 3840, espacios: 60, CFO_INT2: 2126, STO estimate 2: 1714
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:025
+CRC valid!
+
+usrp_source :error: In the last 3921 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 27 CFO estimate: -0.203277, STO estimate: 19.3168, snr est: 10.1072, k_hat: 19, k_hat2: 4096, espacios: 64, CFO_INT2: 2109, STO estimate 2: 1987
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:026
+CRC valid!
+
+[frame_sync_impl.cc] 28 CFO estimate: -0.204879, STO estimate: 62.5884, snr est: 10.6326, k_hat: 63, k_hat2: 354, espacios: 5, CFO_INT2: 2125, STO estimate 2: -1771
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:027
+CRC valid!
+
+[frame_sync_impl.cc] 29 CFO estimate: -0.209025, STO estimate: 103.575, snr est: 10.666, k_hat: 104, k_hat2: 2635, espacios: 41, CFO_INT2: 2116, STO estimate 2: 519
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: »ò0>œ`ñ²gÄu8SÛ
+[31mCRC invalid[0m
+
+[frame_sync_impl.cc] 30 CFO estimate: -1.20501, STO estimate: 5.54971, snr est: 10.654, k_hat: 5, k_hat2: 4083, espacios: 63, CFO_INT2: 2110, STO estimate 2: 1973
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:029
+CRC valid!
+
+usrp_source :error: In the last 11736 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 31 CFO estimate: -0.190638, STO estimate: 98.2357, snr est: 10.5239, k_hat: 98, k_hat2: 2632, espacios: 41, CFO_INT2: 2109, STO estimate 2: 523
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:030
+CRC valid!
+
+[frame_sync_impl.cc] 32 CFO estimate: -0.199513, STO estimate: 92.1905, snr est: 11.6188, k_hat: 92, k_hat2: 4164, espacios: 65, CFO_INT2: 2111, STO estimate 2: 2053
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:031
+CRC valid!
+
+[frame_sync_impl.cc] 33 CFO estimate: -0.198248, STO estimate: 59.2199, snr est: 11.9817, k_hat: 59, k_hat2: 131, espacios: 2, CFO_INT2: 2109, STO estimate 2: -1978
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:032
+CRC valid!
+
+[frame_sync_impl.cc] 34 CFO estimate: -0.196213, STO estimate: 86.2847, snr est: 11.6978, k_hat: 86, k_hat2: 4305, espacios: 67, CFO_INT2: 2109, STO estimate 2: 2196
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:033
+CRC valid!
+
+[frame_sync_impl.cc] 35 CFO estimate: -0.204066, STO estimate: 81.4894, snr est: 11.4463, k_hat: 81, k_hat2: 4160, espacios: 65, CFO_INT2: 2042, STO estimate 2: 2118
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:034
+CRC valid!
+
+[frame_sync_impl.cc] 36 CFO estimate: -0.202701, STO estimate: 24.4445, snr est: 10.5826, k_hat: 24, k_hat2: 6721, espacios: 105, CFO_INT2: 2111, STO estimate 2: 4610
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:035
+CRC valid!
+
+usrp_source :error: In the last 16219 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 37 CFO estimate: -0.194153, STO estimate: 105.118, snr est: 11.5273, k_hat: 105, k_hat2: 3066, espacios: 47, CFO_INT2: 2107, STO estimate 2: 959
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:036
+CRC valid!
+
+[frame_sync_impl.cc] 38 CFO estimate: -0.203172, STO estimate: 51.6518, snr est: 10.2761, k_hat: 52, k_hat2: 3986, espacios: 62, CFO_INT2: 2120, STO estimate 2: 1866
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:037
+CRC valid!
+
+[frame_sync_impl.cc] 39 CFO estimate: -0.190559, STO estimate: 66.7017, snr est: 10.4979, k_hat: 67, k_hat2: 8175, espacios: 127, CFO_INT2: 2122, STO estimate 2: 6053
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:038
+CRC valid!
+
+usrp_source :error: In the last 8849 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 40 CFO estimate: -0.19354, STO estimate: 74.8576, snr est: 11.5158, k_hat: 75, k_hat2: 4009, espacios: 62, CFO_INT2: 2128, STO estimate 2: 1881
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:039
+CRC valid!
+
+[frame_sync_impl.cc] 41 CFO estimate: -0.194444, STO estimate: 117.936, snr est: 11.4135, k_hat: 118, k_hat2: 4210, espacios: 65, CFO_INT2: 2113, STO estimate 2: 2097
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:040
+CRC valid!
+
+[frame_sync_impl.cc] 42 CFO estimate: -0.196131, STO estimate: 113.939, snr est: 11.0391, k_hat: 114, k_hat2: 3009, espacios: 47, CFO_INT2: 2126, STO estimate 2: 883
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:041
+CRC valid!
+
+[frame_sync_impl.cc] 43 CFO estimate: -1.20516, STO estimate: 9.50857, snr est: 10.8946, k_hat: 9, k_hat2: 4537, espacios: 70, CFO_INT2: 2110, STO estimate 2: 2427
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:042
+CRC valid!
+
+[frame_sync_impl.cc] 44 CFO estimate: -0.194694, STO estimate: 37.8499, snr est: 11.4573, k_hat: 38, k_hat2: 6620, espacios: 103, CFO_INT2: 2128, STO estimate 2: 4492
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+usrp_source :error: In the last 13305 ms, 1 overflows occurred.
+rx msg: 1M_8MS_125_7:043
+[31mCRC invalid[0m
+
+[frame_sync_impl.cc] 45 CFO estimate: -0.196458, STO estimate: 10.9435, snr est: 10.8263, k_hat: 11, k_hat2: 4095, espacios: 63, CFO_INT2: 2129, STO estimate 2: 1966
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:044
+CRC valid!
+
+[frame_sync_impl.cc] 46 CFO estimate: -0.196924, STO estimate: 73.9512, snr est: 11.3907, k_hat: 74, k_hat2: 4014, espacios: 62, CFO_INT2: 2108, STO estimate 2: 1906
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:045
+CRC valid!
+
+usrp_source :error: In the last 6606 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 47 CFO estimate: -0.197352, STO estimate: 83.509, snr est: 10.1307, k_hat: 84, k_hat2: 2692, espacios: 42, CFO_INT2: 2013, STO estimate 2: 679
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:046
+CRC valid!
+
+[frame_sync_impl.cc] 48 CFO estimate: -0.204322, STO estimate: 77.6368, snr est: 10.3603, k_hat: 78, k_hat2: 999, espacios: 15, CFO_INT2: 2127, STO estimate 2: -1128
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:047
+CRC valid!
+
+[frame_sync_impl.cc] 49 CFO estimate: -0.199935, STO estimate: 125.995, snr est: 10.895, k_hat: 126, k_hat2: 4058, espacios: 63, CFO_INT2: 2127, STO estimate 2: 1931
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:048
+CRC valid!
+
+[frame_sync_impl.cc] 50 CFO estimate: -0.198649, STO estimate: 78.4065, snr est: 10.797, k_hat: 78, k_hat2: 2284, espacios: 35, CFO_INT2: 2042, STO estimate 2: 242
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:049
+CRC valid!
+
+[frame_sync_impl.cc] 51 CFO estimate: -0.195996, STO estimate: 86.9884, snr est: 7.75341, k_hat: 87, k_hat2: 1910, espacios: 29, CFO_INT2: 2127, STO estimate 2: -217
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:050
+CRC valid!
+
+[frame_sync_impl.cc] 52 CFO estimate: -1.20826, STO estimate: 127.694, snr est: 9.74422, k_hat: 127, k_hat2: 4213, espacios: 65, CFO_INT2: 2111, STO estimate 2: 2102
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:051
+CRC valid!
+
+[frame_sync_impl.cc] 53 CFO estimate: -0.195021, STO estimate: 75.9144, snr est: 10.6841, k_hat: 76, k_hat2: 888, espacios: 13, CFO_INT2: 2122, STO estimate 2: -1234
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:052
+CRC valid!
+
+[frame_sync_impl.cc] 54 CFO estimate: -0.19937, STO estimate: 3.9243, snr est: 10.0879, k_hat: 4, k_hat2: 4793, espacios: 74, CFO_INT2: 2123, STO estimate 2: 2670
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:053
+CRC valid!
+
+[frame_sync_impl.cc] 55 CFO estimate: -0.204284, STO estimate: 67.646, snr est: 11.0207, k_hat: 68, k_hat2: 679, espacios: 10, CFO_INT2: 2126, STO estimate 2: -1447
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:054
+CRC valid!
+
+[frame_sync_impl.cc] 56 CFO estimate: -0.189302, STO estimate: 86.7728, snr est: 12.1238, k_hat: 87, k_hat2: 4306, espacios: 67, CFO_INT2: 2119, STO estimate 2: 2187
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: á–†éÛ)H–^§n-f
+[31mCRC invalid[0m
+
+[frame_sync_impl.cc] 57 CFO estimate: -0.197403, STO estimate: 66.9561, snr est: 12.9464, k_hat: 67, k_hat2: 1621, espacios: 25, CFO_INT2: 2114, STO estimate 2: -493
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:056
+CRC valid!
+
+usrp_source :error: In the last 32594 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 58 CFO estimate: -0.190342, STO estimate: 86.0239, snr est: 12.4019, k_hat: 86, k_hat2: 2469, espacios: 38, CFO_INT2: 2118, STO estimate 2: 351
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:057
+CRC valid!
+
+[frame_sync_impl.cc] 59 CFO estimate: -0.191219, STO estimate: 49.9244, snr est: 10.7427, k_hat: 50, k_hat2: 4218, espacios: 65, CFO_INT2: 2116, STO estimate 2: 2102
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:058
+CRC valid!
+
+[frame_sync_impl.cc] 60 CFO estimate: -0.18951, STO estimate: 29.7321, snr est: 10.8831, k_hat: 30, k_hat2: 6444, espacios: 100, CFO_INT2: 2125, STO estimate 2: 4319
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:059
+CRC valid!
+
+usrp_source :error: In the last 8807 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 61 CFO estimate: -0.199145, STO estimate: 81.9772, snr est: 10.5152, k_hat: 82, k_hat2: 4189, espacios: 65, CFO_INT2: 2129, STO estimate 2: 2060
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:060
+CRC valid!
+
+[frame_sync_impl.cc] 62 CFO estimate: -0.187358, STO estimate: 83.7144, snr est: 10.9088, k_hat: 84, k_hat2: 1704, espacios: 26, CFO_INT2: 2124, STO estimate 2: -420
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:061
+CRC valid!
+
+usrp_source :error: In the last 6777 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 63 CFO estimate: -0.197076, STO estimate: 100.342, snr est: 11.739, k_hat: 100, k_hat2: 4041, espacios: 63, CFO_INT2: 2110, STO estimate 2: 1931
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:062
+CRC valid!
+
+[frame_sync_impl.cc] 64 CFO estimate: -0.195625, STO estimate: 56.0687, snr est: 11.4654, k_hat: 56, k_hat2: 214, espacios: 3, CFO_INT2: 2120, STO estimate 2: -1906
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:063
+CRC valid!
+
+[frame_sync_impl.cc] 65 CFO estimate: -0.20215, STO estimate: 13.9854, snr est: 10.9378, k_hat: 14, k_hat2: 4091, espacios: 63, CFO_INT2: 2124, STO estimate 2: 1967
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:064
+CRC valid!
+
+[frame_sync_impl.cc] 66 CFO estimate: -0.196292, STO estimate: 4.47997, snr est: 10.7795, k_hat: 4, k_hat2: 4225, espacios: 66, CFO_INT2: 2111, STO estimate 2: 2114
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:065
+CRC valid!
+
+usrp_source :error: In the last 9729 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 67 CFO estimate: -0.195321, STO estimate: 23.9947, snr est: 12.1936, k_hat: 24, k_hat2: 5128, espacios: 80, CFO_INT2: 2109, STO estimate 2: 3019
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:066
+CRC valid!
+
+usrp_source :error: In the last 3288 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 68 CFO estimate: -0.202146, STO estimate: 4.49858, snr est: 11.5101, k_hat: 4, k_hat2: 4829, espacios: 75, CFO_INT2: 2111, STO estimate 2: 2718
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:067
+CRC valid!
+
+[frame_sync_impl.cc] 69 CFO estimate: -0.190198, STO estimate: 62.7123, snr est: 11.8361, k_hat: 63, k_hat2: 352, espacios: 5, CFO_INT2: 2123, STO estimate 2: -1771
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:068
+CRC valid!
+
+[frame_sync_impl.cc] 70 CFO estimate: -0.195615, STO estimate: 35.7816, snr est: 11.5061, k_hat: 36, k_hat2: 6487, espacios: 101, CFO_INT2: 2126, STO estimate 2: 4361
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:069
+CRC valid!
+
+[frame_sync_impl.cc] 71 CFO estimate: -1.20173, STO estimate: 122.542, snr est: 7.93931, k_hat: 122, k_hat2: 4208, espacios: 65, CFO_INT2: 2111, STO estimate 2: 2097
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:070
+CRC valid!
+
+[frame_sync_impl.cc] 72 CFO estimate: -0.192795, STO estimate: 46.8834, snr est: 10.8658, k_hat: 47, k_hat2: 7530, espacios: 117, CFO_INT2: 2116, STO estimate 2: 5414
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:071
+CRC valid!
+
+usrp_source :error: In the last 15546 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 73 CFO estimate: -0.198784, STO estimate: 52.1548, snr est: 12.3192, k_hat: 52, k_hat2: 4131, espacios: 64, CFO_INT2: 2108, STO estimate 2: 2023
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:072
+CRC valid!
+
+[frame_sync_impl.cc] 74 CFO estimate: -0.208912, STO estimate: 15.1382, snr est: 11.3817, k_hat: 15, k_hat2: 3949, espacios: 61, CFO_INT2: 2109, STO estimate 2: 1840
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:073
+CRC valid!
+
+usrp_source :error: In the last 3747 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 75 CFO estimate: -1.20453, STO estimate: 122.554, snr est: 10.2308, k_hat: 122, k_hat2: 4210, espacios: 65, CFO_INT2: 2111, STO estimate 2: 2099
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:074
+CRC valid!
+
+usrp_source :error: In the last 5108 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 76 CFO estimate: -0.201093, STO estimate: 23.6139, snr est: 10.1627, k_hat: 24, k_hat2: 5710, espacios: 89, CFO_INT2: 2114, STO estimate 2: 3596
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:076
+CRC valid!
+
+usrp_source :error: In the last 3282 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 77 CFO estimate: -0.200269, STO estimate: 8.04545, snr est: 11.2555, k_hat: 8, k_hat2: 4177, espacios: 65, CFO_INT2: 2122, STO estimate 2: 2055
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:077
+CRC valid!
+
+usrp_source :error: In the last 3302 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 78 CFO estimate: -0.198023, STO estimate: 25.0113, snr est: 12.9047, k_hat: 25, k_hat2: 4130, espacios: 64, CFO_INT2: 2106, STO estimate 2: 2024
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:078
+CRC valid!
+
+usrp_source :error: In the last 4005 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 79 CFO estimate: -0.189685, STO estimate: 36.7921, snr est: 11.516, k_hat: 37, k_hat2: 7860, espacios: 122, CFO_INT2: 2126, STO estimate 2: 5734
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:079
+CRC valid!
+
+usrp_source :error: In the last 2020 ms, 2 overflows occurred.
+[frame_sync_impl.cc] 80 CFO estimate: -0.199778, STO estimate: 67.2934, snr est: 12.2478, k_hat: 67, k_hat2: 931, espacios: 14, CFO_INT2: 2109, STO estimate 2: -1178
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:080
+CRC valid!
+
+[frame_sync_impl.cc] 81 CFO estimate: -0.194017, STO estimate: 30.8586, snr est: 11.8885, k_hat: 31, k_hat2: 4104, espacios: 64, CFO_INT2: 2118, STO estimate 2: 1986
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:081
+CRC valid!
+
+[frame_sync_impl.cc] 82 CFO estimate: -0.196928, STO estimate: 106.325, snr est: 10.4673, k_hat: 106, k_hat2: 3149, espacios: 49, CFO_INT2: 2109, STO estimate 2: 1040
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:082
+CRC valid!
+
+[frame_sync_impl.cc] 83 CFO estimate: -0.19348, STO estimate: 24.2876, snr est: 11.3309, k_hat: 24, k_hat2: 5731, espacios: 89, CFO_INT2: 2109, STO estimate 2: 3622
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:083
+CRC valid!
+
+[frame_sync_impl.cc] 84 CFO estimate: -0.199755, STO estimate: 70.0514, snr est: 11.9238, k_hat: 70, k_hat2: 1789, espacios: 27, CFO_INT2: 2122, STO estimate 2: -333
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:084
+CRC valid!
+
+usrp_source :error: In the last 15368 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 85 CFO estimate: -0.19335, STO estimate: 39.85, snr est: 10.7242, k_hat: 40, k_hat2: 4111, espacios: 64, CFO_INT2: 2119, STO estimate 2: 1992
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:085
+CRC valid!
+
+[frame_sync_impl.cc] 86 CFO estimate: -0.195177, STO estimate: 94.9941, snr est: 11.1156, k_hat: 95, k_hat2: 1817, espacios: 28, CFO_INT2: 2108, STO estimate 2: -291
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:086
+CRC valid!
+
+usrp_source :error: In the last 4512 ms, 1 overflows occurred.
+usrp_source :error: In the last 2167 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 87 CFO estimate: -0.201813, STO estimate: 10.2079, snr est: 12.254, k_hat: 10, k_hat2: 4092, espacios: 63, CFO_INT2: 2110, STO estimate 2: 1982
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:087
+CRC valid!
+
+[frame_sync_impl.cc] 88 CFO estimate: -0.198676, STO estimate: 3.39588, snr est: 12.1344, k_hat: 3, k_hat2: 6577, espacios: 102, CFO_INT2: 2110, STO estimate 2: 4467
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:088
+CRC valid!
+
+[frame_sync_impl.cc] 89 CFO estimate: -0.197606, STO estimate: 14.4584, snr est: 12.0786, k_hat: 14, k_hat2: 4101, espacios: 64, CFO_INT2: 2110, STO estimate 2: 1991
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:089
+CRC valid!
+
+[frame_sync_impl.cc] 90 CFO estimate: -1.20298, STO estimate: 111.52, snr est: 7.51258, k_hat: 111, k_hat2: 3142, espacios: 49, CFO_INT2: 2111, STO estimate 2: 1031
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:090
+CRC valid!
+
+[frame_sync_impl.cc] 91 CFO estimate: -0.204162, STO estimate: 8.67079, snr est: 11.0275, k_hat: 9, k_hat2: 6988, espacios: 109, CFO_INT2: 2125, STO estimate 2: 4863
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:091
+CRC valid!
+
+usrp_source :error: In the last 13255 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 92 CFO estimate: -0.190642, STO estimate: 54.7837, snr est: 10.3318, k_hat: 55, k_hat2: 7683, espacios: 120, CFO_INT2: 2121, STO estimate 2: 5562
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:092
+CRC valid!
+
+[frame_sync_impl.cc] 93 CFO estimate: -0.2011, STO estimate: 35.6496, snr est: 11.3039, k_hat: 36, k_hat2: 3983, espacios: 62, CFO_INT2: 2123, STO estimate 2: 1860
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:093
+CRC valid!
+
+[frame_sync_impl.cc] 94 CFO estimate: -0.195366, STO estimate: 81.2017, snr est: 11.2613, k_hat: 81, k_hat2: 933, espacios: 14, CFO_INT2: 2108, STO estimate 2: -1175
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:094
+CRC valid!
+
+[frame_sync_impl.cc] 95 CFO estimate: -0.202931, STO estimate: 101.428, snr est: 12.5865, k_hat: 101, k_hat2: 4192, espacios: 65, CFO_INT2: 2110, STO estimate 2: 2082
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:095
+CRC valid!
+
+[frame_sync_impl.cc] 96 CFO estimate: -0.202702, STO estimate: 44.1282, snr est: 11.6017, k_hat: 44, k_hat2: 7639, espacios: 119, CFO_INT2: 2114, STO estimate 2: 5525
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:096
+CRC valid!
+
+[frame_sync_impl.cc] 97 CFO estimate: -0.204244, STO estimate: 44.1993, snr est: 10.8954, k_hat: 44, k_hat2: 7026, espacios: 109, CFO_INT2: 2111, STO estimate 2: 4915
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:097
+CRC valid!
+
+[frame_sync_impl.cc] 98 CFO estimate: -0.199792, STO estimate: 117.37, snr est: 10.5617, k_hat: 117, k_hat2: 4180, espacios: 65, CFO_INT2: 2110, STO estimate 2: 2070
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:098
+CRC valid!
+
+usrp_source :error: In the last 19188 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 99 CFO estimate: -0.19861, STO estimate: 76.1717, snr est: 10.922, k_hat: 76, k_hat2: 1845, espacios: 28, CFO_INT2: 2112, STO estimate 2: -267
+
+--------Header--------
+Payload length: 16
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:099
+CRC valid!
+
+[frame_sync_impl.cc] 100 CFO estimate: -0.206011, STO estimate: 80.3324, snr est: 10.4649, k_hat: 80, k_hat2: 3377, espacios: 52, CFO_INT2: 2110, STO estimate 2: 1267
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0100
+CRC valid!
+
+[frame_sync_impl.cc] 101 CFO estimate: -0.195684, STO estimate: 41.2441, snr est: 10.5288, k_hat: 41, k_hat2: 7170, espacios: 112, CFO_INT2: 2108, STO estimate 2: 5062
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0101
+CRC valid!
+
+[frame_sync_impl.cc] 102 CFO estimate: -0.191042, STO estimate: 48.1458, snr est: 11.3482, k_hat: 48, k_hat2: 7610, espacios: 118, CFO_INT2: 2108, STO estimate 2: 5502
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0102
+CRC valid!
+
+[frame_sync_impl.cc] 103 CFO estimate: -0.201332, STO estimate: 100.594, snr est: 11.7704, k_hat: 101, k_hat2: 2771, espacios: 43, CFO_INT2: 2117, STO estimate 2: 654
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0103
+CRC valid!
+
+usrp_source :error: In the last 15279 ms, 1 overflows occurred.
+[frame_sync_impl.cc] 104 CFO estimate: -0.20119, STO estimate: 85.6266, snr est: 11.3221, k_hat: 86, k_hat2: 4178, espacios: 65, CFO_INT2: 2124, STO estimate 2: 2054
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0104
+CRC valid!
+
+[frame_sync_impl.cc] 105 CFO estimate: -0.191496, STO estimate: 113.974, snr est: 10.9056, k_hat: 114, k_hat2: 4058, espacios: 63, CFO_INT2: 2118, STO estimate 2: 1940
+
+--------Header--------
+Payload length: 17
+CRC presence:   1
+Coding rate:    1
+Header checksum valid!
+
+rx msg: 1M_8MS_125_7:0105
+CRC valid!
+
